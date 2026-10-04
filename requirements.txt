@@ -1,0 +1,8 @@
+# The Python function in api/ has no third-party dependencies.
+#
+# Every one of the 118 deterministic tools is standard library — no numpy, no
+# pandas, no scipy — which is what makes it deployable as a function of this app
+# rather than a service with an environment to maintain. Keep it that way: a
+# dependency added here is a cold start paid on every geology turn.
+#
+# This file exists to say so, and to tell the builder there is nothing to install.

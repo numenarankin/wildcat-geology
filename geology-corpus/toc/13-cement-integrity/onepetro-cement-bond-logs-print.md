@@ -1,0 +1,39 @@
+# onepetro-cement-bond-logs-print
+
+**Covers:** A cased-hole logging chapter on cement evaluation: acoustic cement bond logs (CBL/VDL), segmented bond tools, and ultrasonic pulse-echo/imaging tools such as CAST-V, covering tool physics, log presentation, and interpretation of bond quality.
+
+**Authoritative for:** what a CBL amplitude measurement and variable density log (VDL) physically respond to, reading and interpreting CBL/VDL log tracks, free-pipe and formation arrivals, chevron patterns, transmitter–receiver spacing, gating (fixed vs floating), centralization and eccentering effects on CBL response, bond index computation and shear vs hydraulic bond concepts, radial/segmented and ultrasonic pulse-echo cement tools: acoustic impedance behind casing, casing resonance damping, channel detection, combined casing-inspection plus cement-evaluation ultrasonic logging (CAST-V modes and displays), resolution limits of conventional CBL for small channels and microannulus-type ambiguity
+
+**Not good for:** cement slurry design, additives, chemistry, or set-time modeling, primary cementing job execution, displacement mechanics, or squeeze remediation procedures, open-hole formation evaluation, porosity/saturation, or petrophysical calculations, casing design, tubular stress analysis, or corrosion mechanisms beyond ultrasonic thickness imaging, well integrity regulations, barrier verification standards, or P&A policy requirements, specific vendor tool specifications outside those named, or current-generation tool catalogs
+
+**Scope:** Service-company/SPE-style tutorial content, oilfield cased-hole logging practice; tool descriptions reflect the era of conventional CBL and early-to-mid ultrasonic imagers (e.g., CAST-V), so hardware names, frequencies, and processing may lag current commercial offerings. Interpretation guidance is generic and not basin- or region-specific; no field case data or quantitative bond-index cutoffs tied to a particular regulatory regime should be assumed.
+
+_7 segments._
+
+---
+
+### Cement bond logs — purpose of cement evaluation (intro)  `13-cement-integrity/onepetro-cement-bond-logs-print#0` (chars 0-860)
+Answers: Why does cement placement between casing and formation matter? · What is the difference between shear bond and hydraulic bond? · What logs are used to evaluate cement bond quality?
+Entities: PetroWiki, Society of Petroleum Engineers (SPE), OnePetro, shear bond, hydraulic bond, Acoustic logs
+
+### Evaluating cement bond with acoustic CBL: measurements and log presentation  `13-cement-integrity/onepetro-cement-bond-logs-print#1` (chars 860-5360)
+Answers: what does a cement bond log actually measure · how do I read a variable density log (VDL) · why do free pipe and fluid arrivals show as straight lines on VDL · what causes the chevron or zigzag pattern on a VDL · how do I identify casing collars on a cement bond log · can CBL amplitude be converted to cement compressive strength · why are CBL calibrations inaccurate in foamed cement · what curves are on a typical cement bond log presentation · difference between conventional omnidirectional CBL and radial azimuthal cement evaluation tools · why does bond log response change over time as cement cures · what is bond index
+Entities: CBL, cement-bond logs, VDL, variable density, monopole (axisymmetric) transmitters, gamma ray, Baker Atlas, bond index, microseismograms, dB/ft, attenuation ratio, TR spacing
+
+### Conventional cement-bond devices: tool design, gating, bond scenarios, and bond index  `13-cement-integrity/onepetro-cement-bond-logs-print#2` (chars 5360-15701)
+Answers: What TR spacing is used for CBL amplitude vs full waveform measurements? · Why do cement bond tools need centralization and what does tool eccentering do to amplitude and travel time? · What frequency do cement-bond logging tools operate at? · What is the difference between fixed and floating gates on a CBL? · How do I tell free pipe from good bond, bond to casing only, and partial bond on a CBL? · How do I distinguish a microannulus from channeling on a cement bond log? · Why should I run the cement bond log with the casing under pressure? · Why can foam cement be misinterpreted as partial bond? · What factors affect bond interpretation from the amplitude response? · What are the limitations of conventional cement bond logs? · How do fast formations affect the amplitude curve when the formation arrival precedes the casing arrival? · How is bond index calculated and what does BI = 1.0 mean? · Does pipe amplitude tell me anything about cement-to-formation bond?
+Entities: CBL, VDL, Baker Atlas, bond index (BI), TT, TR spacing, Fig. 4, Fig. 5, Fig. 6, 57 μsec/ft, 20 and 30 kHz
+Equations: Attenuation = 20 / TR log (measured amplitude / free-pipe amplitude), Bond index (ratio of measured attenuation to maximum attenuation)
+
+### Radial cement evaluation tools and comparison table  `13-cement-integrity/onepetro-cement-bond-logs-print#3` (chars 15701-21012)
+Answers: How do radial cement evaluation tools locate channels and partial bond? · What types of radial cement evaluation tools are available? · How does an ultrasonic pulse-echo cement tool measure acoustic impedance behind casing? · Why does good cement bond damp the casing resonance faster? · What are the advantages of a pad-type azimuthal attenuation tool over ultrasonic tools? · Does heavy mud or fast formation affect the pad cement tool? · How does gas in the cement slurry or foam/lightweight cement affect ultrasonic cement log interpretation? · Which cement tool can identify channels vs partial bond? · Is centralization essential for conventional CBL? · Do I need free-pipe calibration above top of cement? · Which cement tools are affected by microannulus or gas in microannulus? · Can a cement tool detect casing corrosion or thickness? · What does a cement map or azimuthal image show?
+Entities: Baker Atlas SBT, VDL, CBL, SPE, OnePetro, flexural transmitter, TR pairs, TABLE 3C.10
+
+### Cement-evaluation logs: CBL, SBT, ultrasonic imagers  `13-cement-integrity/onepetro-cement-bond-logs-print#4` (chars 21012-28161)
+Answers: How does a conventional cement bond log work? · Why can't a CBL detect small channels in cement? · What does a straight waveform on a CBL mean? · How do I read the tracks on a CBL log? · How does the Segmented Bond Tool measure attenuation around the casing? · What is a variable-attenuation log or cement map? · How do ultrasonic cement evaluation tools measure acoustic impedance behind casing? · How can I tell gas-contaminated cement from fluid behind casing? · How do I use CBL and USI together for cement evaluation? · How narrow a channel can the USI detect? · How do I find top of cement from a bond log?
+Entities: CBL, CBLs, Segmented Bond Tool, SBT™, Baker Atlas, Cement Evaluation Tool, CET™, Schlumberger, Ultrasonic Imager, USI™, Halliburton, De Souza Padilha, Da Silva Araujo, gamma ray, Fig. 8, Fig. 9
+Equations: acoustic impedance = acoustic velocity × density
+
+### Simultaneous casing inspection and cement evaluation with CAST-V  `13-cement-integrity/onepetro-cement-bond-logs-print#5` (chars 28161-31077)
+Answers: Can one ultrasonic tool do casing inspection and cement evaluation at the same time? · What are the operating modes of the CAST-V tool? · How do I read a CAST-V casing inspection log — what's in each track? · What does the acoustic impedance map in a CAST-V cement evaluation display show? · What does the cement bond index (CBI) track tell me? · What do red and blue mean on a pipe thickness image? · Which degree on the impedance image is the high side of the hole? · Can an ultrasonic scanning tool be run in open hole as a formation imager?
+Entities: Circumferential Acoustic Scanning Tool, CAST-V™, Halliburton, CBL, cement-bond index (CBI), gamma ray, Borehole Imaging, Image mode, cased-hole mode

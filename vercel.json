@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/geology.py": {
+      "includeFiles": "{api/_geology,geology-corpus/knowledge-base,geology-corpus/toc,geology-corpus/tables}/**",
+      "maxDuration": 60,
+      "memory": 1024
+    }
+  }
+}

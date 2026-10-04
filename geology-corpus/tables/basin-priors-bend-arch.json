@@ -1,0 +1,254 @@
+{
+  "source": "scripts/build_basin_priors.py; every statement is verbatim from the anchor it cites and was checked as being about its location",
+  "fields": [
+    "trap_style",
+    "contact_behaviour",
+    "tool_suites",
+    "pitfalls"
+  ],
+  "locations": [
+    {
+      "key": "bend arch",
+      "label": "the Bend Arch",
+      "aliases": [
+        "bend arch",
+        "bend arch, texas",
+        "bend arch province"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage describes a local dome structure near Breckenridge, a specific field feature, not the regional Bend Arch itself. This is a localized trap description that would misinform an operator screening the broader Bend Arch trap style."
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment discusses oil/water contacts, water drive, coning, or water cut specifically for the Bend Arch."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment describes logging or measurement tool suites run specifically on the Bend Arch structure itself."
+        },
+        "pitfalls": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage discusses the structural history/tectonic interpretation debate about the Bend Arch (fulcrum, flexure, minor uplift), not pitfalls related to correlation traps, facies changes, thin beds, misleading log responses, or depleted/watered-out intervals. It is off-topic for the 'pitfalls' category despite being about the correct location."
+        }
+      }
+    },
+    {
+      "key": "eastern shelf",
+      "label": "the Eastern Shelf of the Midland Basin",
+      "aliases": [
+        "eastern shelf",
+        "eastern shelf of the midland basin"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage discusses trap styles for the Cook field and Morris Buie-Blaco fields with fluvial/distributary channel reservoirs, but does not specify these fields are located on the Eastern Shelf of the Midland Basin. Without explicit confirmation of this location, it cannot be verified that this passage applies to the named area rather than another basin or region."
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment describes oil/water contacts, water drive, coning, or encroachment behavior for the Eastern Shelf."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage merely states that ~3,500 well logs were used for facies mapping across 14 counties; it does not specify the type of logging/measurement run, nor does it discuss what those measurements can or cannot resolve, nor does it confirm the study area is specifically the Eastern Shelf of the Midland Basin. It lacks the substantive content required by the topic."
+        },
+        "pitfalls": {
+          "statement": "Splits in even the most continuous limestone tongues indicate that clastic deltaic deposition occurred in some parts of the shelf during even the most extensive transgressions, making the use of such limestones for precise intra- or inter-basin correlation questionable.",
+          "anchor": "06-fort-worth-basin/galloway-1970-uppermost-pennsylvanian-eastern-shelf#8",
+          "evidence": "verbatim and verified as about this location"
+        }
+      }
+    },
+    {
+      "key": "archer county",
+      "label": "Archer County, Texas",
+      "aliases": [
+        "archer county",
+        "archer county, texas",
+        "archer"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment discusses trapping mechanisms specifically for Archer County."
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment discusses water/hydrocarbon contact behavior for Archer County."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment describes logging or measurement tools applied specifically within Archer County; the Young County study only references a prior pilot program there without detailing tools used in Archer County itself."
+        },
+        "pitfalls": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment identifies interpretation pitfalls specific to Archer County."
+        }
+      }
+    },
+    {
+      "key": "young county",
+      "label": "Young County, Texas",
+      "aliases": [
+        "young county",
+        "young county, texas",
+        "young"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment discusses structural, stratigraphic, or unconformity-related trapping mechanisms specific to Young County; the tables are well logs of coal occurrences and the geologic reports discuss regional stratigraphy without describing hydrocarbon trap style."
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment mentions oil/water contacts, water drive, coning, or water encroachment for Young County; well tables only note 'oil prod' or 'dry hole' status without contact or production-mechanism detail."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage describes generic log types and scale used in some study but gives no indication it pertains specifically to Young County, Texas. Without explicit location context, it cannot be confirmed as applicable to this county's tool suites."
+        },
+        "pitfalls": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage refers to a specific well's Ro value at a given depth interval without naming Young County, Texas, or any location. There is no evidence this well or data pertains to Young County, so it cannot be confirmed as relevant to that location."
+        }
+      }
+    },
+    {
+      "key": "wichita county",
+      "label": "Wichita County, Texas",
+      "aliases": [
+        "wichita county",
+        "wichita county, texas"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": "Oil production in Wichita County Regular field is drawn from anticlinal traps in the Cisco sands of upper Pennsylvanian age at depths of 700 to 1,900 feet.",
+          "anchor": "07-bend-arch/tsha-wichita-county-regular-field#0",
+          "evidence": "verbatim and verified as about this location"
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage discusses primary recovery mechanism (solution gas drive) and secondary recovery projects, not oil/water contact behavior such as water drive, coning, encroachment, or water cut. It also lacks specific confirmation that it refers to Wichita County, Texas fields specifically rather than a general statement."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment mentions logging or measurement tools used in this area."
+        },
+        "pitfalls": {
+          "statement": "By April 1919 overproduction from closely set wells was prematurely depleting Burkburnett Townsite pool.",
+          "anchor": "07-bend-arch/tsha-wichita-county-regular-field#0",
+          "evidence": "verbatim and verified as about this location"
+        }
+      }
+    },
+    {
+      "key": "stephens county",
+      "label": "Stephens County, Texas",
+      "aliases": [
+        "stephens county",
+        "stephens county, texas",
+        "breckenridge"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": "The bend structure that has acted as a\ntrap for the oil in the immediate vicinity of\nBreckenridge has the general shape of a broad and\ngently dipping dome.",
+          "anchor": "06-fort-worth-basin/allen-1930-breckenridge-oil-field#6",
+          "evidence": "verbatim and verified as about this location"
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage is a generic geological description of oil and gas distribution within a structure (flanks/crest) with no mention of Stephens County, Texas, or any identifiable location tying it to that specific area. It cannot be confirmed as applicable to Stephens County acreage."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "The segments describe temperature measurements and drilling/shooting practices but no wireline logging or measurement tool suites for this location."
+        },
+        "pitfalls": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage is a general stratigraphic observation about limestone tongues and correlation on a shelf, with no mention of Stephens County, Texas or any specific formation tied to that county. It reads as a general geologic principle rather than location-specific information, so it should not be attributed as a pitfalls prior for Stephens County."
+        }
+      }
+    },
+    {
+      "key": "palo pinto county",
+      "label": "Palo Pinto County, Texas",
+      "aliases": [
+        "palo pinto county",
+        "palo pinto county, texas"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": "All these wells south of Brad derived their oil from a porous limestone in the Bend group. The subsurface structure was small, the flow of oil erratic, and the production-decline rapid, so that development was not very profitable, and further operations ceased.",
+          "anchor": "06-fort-worth-basin/plummer-1935-geology-palo-pinto-county#25",
+          "evidence": "verbatim and verified as about this location"
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment describes oil/water contacts, water drive, coning, or encroachment behavior for Palo Pinto County fields."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment mentions any logging or subsurface measurement tools run in Palo Pinto County; only drilling depths and shows are recorded."
+        },
+        "pitfalls": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage describes drilling failures around a discovery well but does not name Palo Pinto County or any specific location; without confirmation it pertains to that county, it cannot be verified as relevant, so default to false."
+        }
+      }
+    },
+    {
+      "key": "jack county",
+      "label": "Jack County, Texas",
+      "aliases": [
+        "jack county, texas (bend arch)"
+      ],
+      "priors": {
+        "trap_style": {
+          "statement": "Northeast of Young County, the Winchell bank pinches out very rapidly in Jack\n\nCounty against equivalent rocks of sand and shale belonging to the Missourian Perrin delta of equivalent age (Erxleben, 1974).",
+          "anchor": "06-fort-worth-basin/wermund-1975-upper-penn-limestone-banks#4",
+          "evidence": "verbatim and verified as about this location"
+        },
+        "contact_behaviour": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "No segment discusses oil/water contacts, water drive, coning, or encroachment specifically for Jack County."
+        },
+        "tool_suites": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage is a generic statement about the applicability of a procedure to various tool suites, with no mention of Jack County, Texas, or any location-specific data. It cannot be verified as pertaining specifically to Jack County acreage."
+        },
+        "pitfalls": {
+          "statement": null,
+          "anchor": null,
+          "evidence": "rejected as off-location/off-topic: The passage is a stratigraphic/geologic mapping note about the conformable contact between the Home Creek and Graham formations across Eastland, Stevens, and Jack counties. It does not discuss pitfalls such as correlation traps, facies changes, thin beds, misleading log responses, or depleted/watered-out intervals for operators screening acreage; it is a general geologic contact description, not a pitfalls-focused statement specific to Jack County."
+        }
+      }
+    }
+  ]
+}

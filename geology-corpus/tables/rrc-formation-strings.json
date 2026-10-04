@@ -1,0 +1,7322 @@
+{
+  "source": "rrc.completion_formation joined to rrc.completion, Tiger Cloud mirror of the Texas RRC public record",
+  "counties": [
+    "ARCHER",
+    "JACK",
+    "PALO PINTO",
+    "STEPHENS",
+    "WICHITA",
+    "YOUNG"
+  ],
+  "depth_filter_ft": [
+    100,
+    12000
+  ],
+  "distinct_strings": 467,
+  "total_filings": 16408,
+  "strings": [
+    {
+      "raw": "CADDO",
+      "filings": 928,
+      "counties": {
+        "JACK": {
+          "filings": 330,
+          "depth_samples": 207,
+          "depth_p10_ft": 4254.0,
+          "depth_p50_ft": 4719.0,
+          "depth_p90_ft": 5180.0
+        },
+        "WICHITA": {
+          "filings": 244,
+          "depth_samples": 29,
+          "depth_p10_ft": 3948.0,
+          "depth_p50_ft": 4255.0,
+          "depth_p90_ft": 5280.0
+        },
+        "YOUNG": {
+          "filings": 182,
+          "depth_samples": 106,
+          "depth_p10_ft": 3478.0,
+          "depth_p50_ft": 3844.0,
+          "depth_p90_ft": 4414.0
+        },
+        "STEPHENS": {
+          "filings": 113,
+          "depth_samples": 109,
+          "depth_p10_ft": 3070.0,
+          "depth_p50_ft": 3140.0,
+          "depth_p90_ft": 3320.0
+        },
+        "PALO PINTO": {
+          "filings": 34,
+          "depth_samples": 13,
+          "depth_p10_ft": 3150.0,
+          "depth_p50_ft": 3740.0,
+          "depth_p90_ft": 4036.0
+        },
+        "ARCHER": {
+          "filings": 25,
+          "depth_samples": 23,
+          "depth_p10_ft": 4448.0,
+          "depth_p50_ft": 4595.0,
+          "depth_p90_ft": 5190.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO",
+      "filings": 857,
+      "counties": {
+        "WICHITA": {
+          "filings": 508,
+          "depth_samples": 438,
+          "depth_p10_ft": 500.0,
+          "depth_p50_ft": 672.0,
+          "depth_p90_ft": 1232.0
+        },
+        "ARCHER": {
+          "filings": 212,
+          "depth_samples": 32,
+          "depth_p10_ft": 350.0,
+          "depth_p50_ft": 940.0,
+          "depth_p90_ft": 2095.0
+        },
+        "YOUNG": {
+          "filings": 137,
+          "depth_samples": 21,
+          "depth_p10_ft": 508.0,
+          "depth_p50_ft": 758.0,
+          "depth_p90_ft": 1060.0
+        }
+      }
+    },
+    {
+      "raw": "CONGLOMERATE",
+      "filings": 854,
+      "counties": {
+        "JACK": {
+          "filings": 249,
+          "depth_samples": 41,
+          "depth_p10_ft": 4398.0,
+          "depth_p50_ft": 5200.0,
+          "depth_p90_ft": 5488.0
+        },
+        "WICHITA": {
+          "filings": 242,
+          "depth_samples": 7,
+          "depth_p10_ft": 4475.0,
+          "depth_p50_ft": 5360.0,
+          "depth_p90_ft": 5460.0
+        },
+        "ARCHER": {
+          "filings": 202,
+          "depth_samples": 38,
+          "depth_p10_ft": 4656.0,
+          "depth_p50_ft": 4926.0,
+          "depth_p90_ft": 5500.0
+        },
+        "YOUNG": {
+          "filings": 149,
+          "depth_samples": 39,
+          "depth_p10_ft": 3920.0,
+          "depth_p50_ft": 4160.0,
+          "depth_p90_ft": 4902.0
+        },
+        "PALO PINTO": {
+          "filings": 8,
+          "depth_samples": 8,
+          "depth_p10_ft": 3629.0,
+          "depth_p50_ft": 3860.0,
+          "depth_p90_ft": 4600.0
+        },
+        "STEPHENS": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 3820.0,
+          "depth_p50_ft": 3970.0,
+          "depth_p90_ft": 4171.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN",
+      "filings": 818,
+      "counties": {
+        "JACK": {
+          "filings": 281,
+          "depth_samples": 109,
+          "depth_p10_ft": 611.0,
+          "depth_p50_ft": 2505.0,
+          "depth_p90_ft": 4000.0
+        },
+        "WICHITA": {
+          "filings": 248,
+          "depth_samples": 42,
+          "depth_p10_ft": 2900.0,
+          "depth_p50_ft": 3401.0,
+          "depth_p90_ft": 4115.0
+        },
+        "YOUNG": {
+          "filings": 175,
+          "depth_samples": 94,
+          "depth_p10_ft": 1850.0,
+          "depth_p50_ft": 2700.0,
+          "depth_p90_ft": 3475.0
+        },
+        "STEPHENS": {
+          "filings": 84,
+          "depth_samples": 83,
+          "depth_p10_ft": 1650.0,
+          "depth_p50_ft": 1780.0,
+          "depth_p90_ft": 2411.0
+        },
+        "ARCHER": {
+          "filings": 16,
+          "depth_samples": 13,
+          "depth_p10_ft": 2780.0,
+          "depth_p50_ft": 3775.0,
+          "depth_p90_ft": 4268.0
+        },
+        "PALO PINTO": {
+          "filings": 14,
+          "depth_samples": 13,
+          "depth_p10_ft": 790.0,
+          "depth_p50_ft": 1999.0,
+          "depth_p90_ft": 3150.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS",
+      "filings": 754,
+      "counties": {
+        "JACK": {
+          "filings": 351,
+          "depth_samples": 235,
+          "depth_p10_ft": 4820.0,
+          "depth_p50_ft": 5200.0,
+          "depth_p90_ft": 5624.0
+        },
+        "ARCHER": {
+          "filings": 203,
+          "depth_samples": 41,
+          "depth_p10_ft": 4844.0,
+          "depth_p50_ft": 4944.0,
+          "depth_p90_ft": 5095.0
+        },
+        "YOUNG": {
+          "filings": 157,
+          "depth_samples": 63,
+          "depth_p10_ft": 4017.0,
+          "depth_p50_ft": 4371.0,
+          "depth_p90_ft": 4942.0
+        },
+        "PALO PINTO": {
+          "filings": 33,
+          "depth_samples": 31,
+          "depth_p10_ft": 4070.0,
+          "depth_p50_ft": 4500.0,
+          "depth_p90_ft": 4722.0
+        },
+        "STEPHENS": {
+          "filings": 10,
+          "depth_samples": 9,
+          "depth_p10_ft": 3595.0,
+          "depth_p50_ft": 3785.0,
+          "depth_p90_ft": 4070.0
+        }
+      }
+    },
+    {
+      "raw": "ELLENBURGER",
+      "filings": 711,
+      "counties": {
+        "JACK": {
+          "filings": 260,
+          "depth_samples": 91,
+          "depth_p10_ft": 5490.0,
+          "depth_p50_ft": 5998.0,
+          "depth_p90_ft": 6309.0
+        },
+        "WICHITA": {
+          "filings": 247,
+          "depth_samples": 22,
+          "depth_p10_ft": 4100.0,
+          "depth_p50_ft": 4585.0,
+          "depth_p90_ft": 5507.0
+        },
+        "ARCHER": {
+          "filings": 201,
+          "depth_samples": 16,
+          "depth_p10_ft": 4980.0,
+          "depth_p50_ft": 5276.0,
+          "depth_p90_ft": 6100.0
+        },
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4750.0,
+          "depth_p50_ft": 4750.0,
+          "depth_p90_ft": 4924.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4572.0,
+          "depth_p50_ft": 4572.0,
+          "depth_p90_ft": 4572.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT",
+      "filings": 625,
+      "counties": {
+        "ARCHER": {
+          "filings": 279,
+          "depth_samples": 205,
+          "depth_p10_ft": 840.0,
+          "depth_p50_ft": 1187.0,
+          "depth_p90_ft": 1630.0
+        },
+        "JACK": {
+          "filings": 256,
+          "depth_samples": 62,
+          "depth_p10_ft": 345.0,
+          "depth_p50_ft": 462.0,
+          "depth_p90_ft": 1300.0
+        },
+        "WICHITA": {
+          "filings": 64,
+          "depth_samples": 63,
+          "depth_p10_ft": 1554.0,
+          "depth_p50_ft": 1756.0,
+          "depth_p90_ft": 1912.0
+        },
+        "YOUNG": {
+          "filings": 25,
+          "depth_samples": 25,
+          "depth_p10_ft": 530.0,
+          "depth_p50_ft": 616.0,
+          "depth_p90_ft": 966.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1140.0,
+          "depth_p50_ft": 1140.0,
+          "depth_p90_ft": 1140.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS SAND",
+      "filings": 517,
+      "counties": {
+        "WICHITA": {
+          "filings": 291,
+          "depth_samples": 178,
+          "depth_p10_ft": 1120.0,
+          "depth_p50_ft": 1512.0,
+          "depth_p90_ft": 1735.0
+        },
+        "ARCHER": {
+          "filings": 225,
+          "depth_samples": 100,
+          "depth_p10_ft": 685.0,
+          "depth_p50_ft": 1172.0,
+          "depth_p90_ft": 1517.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 613.0,
+          "depth_p50_ft": 613.0,
+          "depth_p90_ft": 613.0
+        }
+      }
+    },
+    {
+      "raw": "CANYON SAND",
+      "filings": 496,
+      "counties": {
+        "WICHITA": {
+          "filings": 255,
+          "depth_samples": 75,
+          "depth_p10_ft": 2090.0,
+          "depth_p50_ft": 2675.0,
+          "depth_p90_ft": 2932.0
+        },
+        "JACK": {
+          "filings": 238,
+          "depth_samples": 17,
+          "depth_p10_ft": 1664.0,
+          "depth_p50_ft": 2390.0,
+          "depth_p90_ft": 3500.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 2296.0,
+          "depth_p50_ft": 2296.0,
+          "depth_p90_ft": 3554.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO",
+      "filings": 489,
+      "counties": {
+        "JACK": {
+          "filings": 256,
+          "depth_samples": 99,
+          "depth_p10_ft": 669.0,
+          "depth_p50_ft": 1069.0,
+          "depth_p90_ft": 1852.0
+        },
+        "YOUNG": {
+          "filings": 157,
+          "depth_samples": 85,
+          "depth_p10_ft": 1075.0,
+          "depth_p50_ft": 1601.0,
+          "depth_p90_ft": 2466.0
+        },
+        "STEPHENS": {
+          "filings": 75,
+          "depth_samples": 75,
+          "depth_p10_ft": 1208.0,
+          "depth_p50_ft": 1272.0,
+          "depth_p90_ft": 1425.0
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT LIME",
+      "filings": 476,
+      "counties": {
+        "WICHITA": {
+          "filings": 284,
+          "depth_samples": 174,
+          "depth_p10_ft": 1560.0,
+          "depth_p50_ft": 1900.0,
+          "depth_p90_ft": 2020.0
+        },
+        "YOUNG": {
+          "filings": 171,
+          "depth_samples": 98,
+          "depth_p10_ft": 480.0,
+          "depth_p50_ft": 680.0,
+          "depth_p90_ft": 1040.0
+        },
+        "ARCHER": {
+          "filings": 20,
+          "depth_samples": 18,
+          "depth_p10_ft": 678.0,
+          "depth_p50_ft": 1327.0,
+          "depth_p90_ft": 1581.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 372.0,
+          "depth_p50_ft": 372.0,
+          "depth_p90_ft": 372.0
+        }
+      }
+    },
+    {
+      "raw": "BARNETT SHALE",
+      "filings": 467,
+      "counties": {
+        "JACK": {
+          "filings": 302,
+          "depth_samples": 164,
+          "depth_p10_ft": 5202.0,
+          "depth_p50_ft": 5787.0,
+          "depth_p90_ft": 6100.0
+        },
+        "YOUNG": {
+          "filings": 142,
+          "depth_samples": 29,
+          "depth_p10_ft": 4202.0,
+          "depth_p50_ft": 4478.0,
+          "depth_p90_ft": 4776.0
+        },
+        "PALO PINTO": {
+          "filings": 20,
+          "depth_samples": 20,
+          "depth_p10_ft": 4309.0,
+          "depth_p50_ft": 4910.0,
+          "depth_p90_ft": 5051.0
+        },
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4001.0,
+          "depth_p50_ft": 4001.0,
+          "depth_p90_ft": 4160.0
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5142.0,
+          "depth_p50_ft": 5142.0,
+          "depth_p90_ft": 5142.0
+        }
+      }
+    },
+    {
+      "raw": "VOGSTBERGER",
+      "filings": 444,
+      "counties": {
+        "WICHITA": {
+          "filings": 242,
+          "depth_samples": 7,
+          "depth_p10_ft": 4660.0,
+          "depth_p50_ft": 4846.0,
+          "depth_p90_ft": 4981.0
+        },
+        "ARCHER": {
+          "filings": 202,
+          "depth_samples": 31,
+          "depth_p10_ft": 3950.0,
+          "depth_p50_ft": 4500.0,
+          "depth_p90_ft": 4680.0
+        }
+      }
+    },
+    {
+      "raw": "BRYSON",
+      "filings": 392,
+      "counties": {
+        "JACK": {
+          "filings": 254,
+          "depth_samples": 69,
+          "depth_p10_ft": 2100.0,
+          "depth_p50_ft": 3198.0,
+          "depth_p90_ft": 3964.0
+        },
+        "YOUNG": {
+          "filings": 138,
+          "depth_samples": 14,
+          "depth_p10_ft": 2206.0,
+          "depth_p50_ft": 2980.0,
+          "depth_p90_ft": 3250.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA CONGLOMERATE",
+      "filings": 383,
+      "counties": {
+        "JACK": {
+          "filings": 243,
+          "depth_samples": 48,
+          "depth_p10_ft": 4382.0,
+          "depth_p50_ft": 4855.0,
+          "depth_p90_ft": 5678.0
+        },
+        "YOUNG": {
+          "filings": 139,
+          "depth_samples": 15,
+          "depth_p10_ft": 3775.0,
+          "depth_p50_ft": 4194.0,
+          "depth_p90_ft": 4318.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "CANYON",
+      "filings": 373,
+      "counties": {
+        "ARCHER": {
+          "filings": 205,
+          "depth_samples": 54,
+          "depth_p10_ft": 1995.0,
+          "depth_p50_ft": 2670.0,
+          "depth_p90_ft": 3650.0
+        },
+        "YOUNG": {
+          "filings": 141,
+          "depth_samples": 20,
+          "depth_p10_ft": 983.0,
+          "depth_p50_ft": 1252.0,
+          "depth_p90_ft": 2290.0
+        },
+        "WICHITA": {
+          "filings": 26,
+          "depth_samples": 26,
+          "depth_p10_ft": 2000.0,
+          "depth_p50_ft": 2100.0,
+          "depth_p90_ft": 2632.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2367.0,
+          "depth_p50_ft": 2367.0,
+          "depth_p90_ft": 2367.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT SAND",
+      "filings": 369,
+      "counties": {
+        "WICHITA": {
+          "filings": 300,
+          "depth_samples": 215,
+          "depth_p10_ft": 1402.0,
+          "depth_p50_ft": 1822.0,
+          "depth_p90_ft": 1990.0
+        },
+        "ARCHER": {
+          "filings": 38,
+          "depth_samples": 37,
+          "depth_p10_ft": 655.0,
+          "depth_p50_ft": 1332.0,
+          "depth_p90_ft": 1601.0
+        },
+        "YOUNG": {
+          "filings": 27,
+          "depth_samples": 25,
+          "depth_p10_ft": 580.0,
+          "depth_p50_ft": 1000.0,
+          "depth_p90_ft": 1202.0
+        },
+        "JACK": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 370.0,
+          "depth_p50_ft": 372.0,
+          "depth_p90_ft": 410.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONGLOMERATE",
+      "filings": 283,
+      "counties": {
+        "JACK": {
+          "filings": 269,
+          "depth_samples": 78,
+          "depth_p10_ft": 4300.0,
+          "depth_p50_ft": 4600.0,
+          "depth_p90_ft": 5650.0
+        },
+        "PALO PINTO": {
+          "filings": 13,
+          "depth_samples": 13,
+          "depth_p10_ft": 3989.0,
+          "depth_p50_ft": 4048.0,
+          "depth_p90_ft": 4258.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4130.0,
+          "depth_p50_ft": 4130.0,
+          "depth_p90_ft": 4130.0
+        }
+      }
+    },
+    {
+      "raw": "KMA",
+      "filings": 278,
+      "counties": {
+        "WICHITA": {
+          "filings": 268,
+          "depth_samples": 87,
+          "depth_p10_ft": 3620.0,
+          "depth_p50_ft": 3800.0,
+          "depth_p90_ft": 4108.0
+        },
+        "ARCHER": {
+          "filings": 10,
+          "depth_samples": 10,
+          "depth_p10_ft": 3644.0,
+          "depth_p50_ft": 4062.0,
+          "depth_p90_ft": 4290.0
+        }
+      }
+    },
+    {
+      "raw": "TANNEHILL",
+      "filings": 261,
+      "counties": {
+        "WICHITA": {
+          "filings": 261,
+          "depth_samples": 137,
+          "depth_p10_ft": 374.0,
+          "depth_p50_ft": 678.0,
+          "depth_p90_ft": 1012.0
+        }
+      }
+    },
+    {
+      "raw": "BLUFF CREEK SAND",
+      "filings": 245,
+      "counties": {
+        "WICHITA": {
+          "filings": 245,
+          "depth_samples": 26,
+          "depth_p10_ft": 1600.0,
+          "depth_p50_ft": 2775.0,
+          "depth_p90_ft": 3708.0
+        }
+      }
+    },
+    {
+      "raw": "BUTRAM",
+      "filings": 244,
+      "counties": {
+        "JACK": {
+          "filings": 244,
+          "depth_samples": 48,
+          "depth_p10_ft": 1800.0,
+          "depth_p50_ft": 2337.0,
+          "depth_p90_ft": 3202.0
+        }
+      }
+    },
+    {
+      "raw": "WEIR",
+      "filings": 243,
+      "counties": {
+        "JACK": {
+          "filings": 243,
+          "depth_samples": 56,
+          "depth_p10_ft": 1195.0,
+          "depth_p50_ft": 1960.0,
+          "depth_p90_ft": 2500.0
+        }
+      }
+    },
+    {
+      "raw": "VILLAGE BEND",
+      "filings": 242,
+      "counties": {
+        "JACK": {
+          "filings": 242,
+          "depth_samples": 27,
+          "depth_p10_ft": 1143.0,
+          "depth_p50_ft": 2210.0,
+          "depth_p90_ft": 3240.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPIAN",
+      "filings": 242,
+      "counties": {
+        "WICHITA": {
+          "filings": 242,
+          "depth_samples": 10,
+          "depth_p10_ft": 4080.0,
+          "depth_p50_ft": 4520.0,
+          "depth_p90_ft": 5458.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN SAND",
+      "filings": 224,
+      "counties": {
+        "ARCHER": {
+          "filings": 210,
+          "depth_samples": 87,
+          "depth_p10_ft": 2860.0,
+          "depth_p50_ft": 3770.0,
+          "depth_p90_ft": 4325.0
+        },
+        "YOUNG": {
+          "filings": 10,
+          "depth_samples": 10,
+          "depth_p10_ft": 1900.0,
+          "depth_p50_ft": 2514.0,
+          "depth_p90_ft": 3165.0
+        },
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1540.0,
+          "depth_p50_ft": 1540.0,
+          "depth_p90_ft": 1718.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4065.0,
+          "depth_p50_ft": 4065.0,
+          "depth_p90_ft": 4065.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1796.0,
+          "depth_p50_ft": 1796.0,
+          "depth_p90_ft": 1796.0
+        }
+      }
+    },
+    {
+      "raw": "MEGARGEL",
+      "filings": 224,
+      "counties": {
+        "ARCHER": {
+          "filings": 206,
+          "depth_samples": 18,
+          "depth_p10_ft": 1300.0,
+          "depth_p50_ft": 1400.0,
+          "depth_p90_ft": 2800.0
+        },
+        "WICHITA": {
+          "filings": 18,
+          "depth_samples": 18,
+          "depth_p10_ft": 1492.0,
+          "depth_p50_ft": 1650.0,
+          "depth_p90_ft": 1808.0
+        }
+      }
+    },
+    {
+      "raw": "BRYSON SAND",
+      "filings": 215,
+      "counties": {
+        "ARCHER": {
+          "filings": 201,
+          "depth_samples": 47,
+          "depth_p10_ft": 3850.0,
+          "depth_p50_ft": 4203.0,
+          "depth_p90_ft": 4480.0
+        },
+        "JACK": {
+          "filings": 13,
+          "depth_samples": 13,
+          "depth_p10_ft": 2950.0,
+          "depth_p50_ft": 3162.0,
+          "depth_p90_ft": 3411.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1600.0,
+          "depth_p50_ft": 1600.0,
+          "depth_p90_ft": 1600.0
+        }
+      }
+    },
+    {
+      "raw": "DELMAR",
+      "filings": 207,
+      "counties": {
+        "ARCHER": {
+          "filings": 200,
+          "depth_samples": 24,
+          "depth_p10_ft": 650.0,
+          "depth_p50_ft": 720.0,
+          "depth_p90_ft": 2000.0
+        },
+        "WICHITA": {
+          "filings": 7,
+          "depth_samples": 7,
+          "depth_p10_ft": 1508.0,
+          "depth_p50_ft": 1510.0,
+          "depth_p90_ft": 1766.0
+        }
+      }
+    },
+    {
+      "raw": "CADOO",
+      "filings": 204,
+      "counties": {
+        "ARCHER": {
+          "filings": 204,
+          "depth_samples": 106,
+          "depth_p10_ft": 4460.0,
+          "depth_p50_ft": 4530.0,
+          "depth_p90_ft": 5112.0
+        }
+      }
+    },
+    {
+      "raw": "MOBLEY",
+      "filings": 202,
+      "counties": {
+        "ARCHER": {
+          "filings": 202,
+          "depth_samples": 25,
+          "depth_p10_ft": 3800.0,
+          "depth_p50_ft": 3860.0,
+          "depth_p90_ft": 4575.0
+        }
+      }
+    },
+    {
+      "raw": "WARD SAND",
+      "filings": 201,
+      "counties": {
+        "ARCHER": {
+          "filings": 201,
+          "depth_samples": 12,
+          "depth_p10_ft": 1020.0,
+          "depth_p50_ft": 1020.0,
+          "depth_p90_ft": 1650.0
+        }
+      }
+    },
+    {
+      "raw": "DAVIDSON",
+      "filings": 200,
+      "counties": {
+        "ARCHER": {
+          "filings": 200,
+          "depth_samples": 11,
+          "depth_p10_ft": 1800.0,
+          "depth_p50_ft": 1850.0,
+          "depth_p90_ft": 3200.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPIAN - POSSIBLE H2S IN SW COUNTY AREA",
+      "filings": 200,
+      "counties": {
+        "ARCHER": {
+          "filings": 200,
+          "depth_samples": 22,
+          "depth_p10_ft": 5067.0,
+          "depth_p50_ft": 5177.0,
+          "depth_p90_ft": 5750.0
+        }
+      }
+    },
+    {
+      "raw": "BUTTRAM",
+      "filings": 148,
+      "counties": {
+        "YOUNG": {
+          "filings": 140,
+          "depth_samples": 18,
+          "depth_p10_ft": 898.0,
+          "depth_p50_ft": 2000.0,
+          "depth_p90_ft": 2070.0
+        },
+        "JACK": {
+          "filings": 7,
+          "depth_samples": 7,
+          "depth_p10_ft": 1530.0,
+          "depth_p50_ft": 2104.0,
+          "depth_p90_ft": 2467.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1285.0,
+          "depth_p50_ft": 1285.0,
+          "depth_p90_ft": 1285.0
+        }
+      }
+    },
+    {
+      "raw": "HERRON CITY",
+      "filings": 137,
+      "counties": {
+        "YOUNG": {
+          "filings": 137,
+          "depth_samples": 10,
+          "depth_p10_ft": 1175.0,
+          "depth_p50_ft": 2330.0,
+          "depth_p90_ft": 2406.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPIAN - POSSIBLE H2S",
+      "filings": 136,
+      "counties": {
+        "YOUNG": {
+          "filings": 136,
+          "depth_samples": 38,
+          "depth_p10_ft": 4280.0,
+          "depth_p50_ft": 4584.0,
+          "depth_p90_ft": 4826.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN - DISPOSAL",
+      "filings": 65,
+      "counties": {
+        "STEPHENS": {
+          "filings": 36,
+          "depth_samples": 26,
+          "depth_p10_ft": 1750.0,
+          "depth_p50_ft": 2375.0,
+          "depth_p90_ft": 2555.0
+        },
+        "PALO PINTO": {
+          "filings": 29,
+          "depth_samples": 11,
+          "depth_p10_ft": 1650.0,
+          "depth_p50_ft": 2272.0,
+          "depth_p90_ft": 2901.0
+        }
+      }
+    },
+    {
+      "raw": "ELLENBURGER - DISPOSAL",
+      "filings": 64,
+      "counties": {
+        "STEPHENS": {
+          "filings": 35,
+          "depth_samples": 10,
+          "depth_p10_ft": 4311.0,
+          "depth_p50_ft": 4357.0,
+          "depth_p90_ft": 4500.0
+        },
+        "PALO PINTO": {
+          "filings": 29,
+          "depth_samples": 14,
+          "depth_p10_ft": 4460.0,
+          "depth_p50_ft": 5082.0,
+          "depth_p90_ft": 5190.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPIAN - DISPOSAL",
+      "filings": 63,
+      "counties": {
+        "STEPHENS": {
+          "filings": 35,
+          "depth_samples": 9,
+          "depth_p10_ft": 4250.0,
+          "depth_p50_ft": 4300.0,
+          "depth_p90_ft": 4430.0
+        },
+        "PALO PINTO": {
+          "filings": 28,
+          "depth_samples": 4,
+          "depth_p10_ft": 3900.0,
+          "depth_p50_ft": 4170.0,
+          "depth_p90_ft": 5118.0
+        }
+      }
+    },
+    {
+      "raw": "UNIDENTIFIED-COUNTY REGULAR (GAS) - DISPOSAL",
+      "filings": 62,
+      "counties": {
+        "STEPHENS": {
+          "filings": 35,
+          "depth_samples": 12,
+          "depth_p10_ft": 1670.0,
+          "depth_p50_ft": 1670.0,
+          "depth_p90_ft": 3650.0
+        },
+        "PALO PINTO": {
+          "filings": 27,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "KMA LIME",
+      "filings": 37,
+      "counties": {
+        "WICHITA": {
+          "filings": 33,
+          "depth_samples": 33,
+          "depth_p10_ft": 3600.0,
+          "depth_p50_ft": 3694.0,
+          "depth_p90_ft": 3850.0
+        },
+        "ARCHER": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 2973.0,
+          "depth_p50_ft": 3729.0,
+          "depth_p90_ft": 3740.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2762.0,
+          "depth_p50_ft": 2762.0,
+          "depth_p90_ft": 2762.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO - DISPOSAL",
+      "filings": 36,
+      "counties": {
+        "STEPHENS": {
+          "filings": 36,
+          "depth_samples": 32,
+          "depth_p10_ft": 3016.0,
+          "depth_p50_ft": 3218.0,
+          "depth_p90_ft": 3488.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONGLOMERATE - DISPOSAL",
+      "filings": 36,
+      "counties": {
+        "STEPHENS": {
+          "filings": 36,
+          "depth_samples": 13,
+          "depth_p10_ft": 3604.0,
+          "depth_p50_ft": 3800.0,
+          "depth_p90_ft": 3810.0
+        }
+      }
+    },
+    {
+      "raw": "BRECKENRIDGE SAND - DISPOSAL",
+      "filings": 36,
+      "counties": {
+        "STEPHENS": {
+          "filings": 36,
+          "depth_samples": 12,
+          "depth_p10_ft": 540.0,
+          "depth_p50_ft": 540.0,
+          "depth_p90_ft": 1240.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS - DISPOSAL",
+      "filings": 36,
+      "counties": {
+        "STEPHENS": {
+          "filings": 36,
+          "depth_samples": 13,
+          "depth_p10_ft": 3456.0,
+          "depth_p50_ft": 3736.0,
+          "depth_p90_ft": 4100.0
+        }
+      }
+    },
+    {
+      "raw": "CAPPS LIME",
+      "filings": 36,
+      "counties": {
+        "JACK": {
+          "filings": 32,
+          "depth_samples": 32,
+          "depth_p10_ft": 1463.0,
+          "depth_p50_ft": 1612.0,
+          "depth_p90_ft": 1853.0
+        },
+        "YOUNG": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 1510.0,
+          "depth_p50_ft": 1730.0,
+          "depth_p90_ft": 1992.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SAND",
+      "filings": 36,
+      "counties": {
+        "WICHITA": {
+          "filings": 25,
+          "depth_samples": 24,
+          "depth_p10_ft": 617.0,
+          "depth_p50_ft": 1200.0,
+          "depth_p90_ft": 1612.0
+        },
+        "ARCHER": {
+          "filings": 9,
+          "depth_samples": 9,
+          "depth_p10_ft": 602.0,
+          "depth_p50_ft": 653.0,
+          "depth_p90_ft": 1000.0
+        },
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1390.0,
+          "depth_p50_ft": 1390.0,
+          "depth_p90_ft": 1700.0
+        }
+      }
+    },
+    {
+      "raw": "DUFFER - DISPOSAL",
+      "filings": 35,
+      "counties": {
+        "STEPHENS": {
+          "filings": 35,
+          "depth_samples": 14,
+          "depth_p10_ft": 3842.0,
+          "depth_p50_ft": 4010.0,
+          "depth_p90_ft": 4180.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SAND - DISPOSAL",
+      "filings": 35,
+      "counties": {
+        "STEPHENS": {
+          "filings": 35,
+          "depth_samples": 13,
+          "depth_p10_ft": 388.0,
+          "depth_p50_ft": 400.0,
+          "depth_p90_ft": 1650.0
+        }
+      }
+    },
+    {
+      "raw": "UNIDENTIFIED-COUNTY REGULAR - DISPOSAL",
+      "filings": 35,
+      "counties": {
+        "STEPHENS": {
+          "filings": 35,
+          "depth_samples": 14,
+          "depth_p10_ft": 401.0,
+          "depth_p50_ft": 410.0,
+          "depth_p90_ft": 3500.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS",
+      "filings": 35,
+      "counties": {
+        "WICHITA": {
+          "filings": 25,
+          "depth_samples": 25,
+          "depth_p10_ft": 1324.0,
+          "depth_p50_ft": 1510.0,
+          "depth_p90_ft": 1648.0
+        },
+        "ARCHER": {
+          "filings": 9,
+          "depth_samples": 5,
+          "depth_p10_ft": 1170.0,
+          "depth_p50_ft": 1351.0,
+          "depth_p90_ft": 1545.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1150.0,
+          "depth_p50_ft": 1150.0,
+          "depth_p90_ft": 1150.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO LIME",
+      "filings": 35,
+      "counties": {
+        "YOUNG": {
+          "filings": 11,
+          "depth_samples": 7,
+          "depth_p10_ft": 3330.0,
+          "depth_p50_ft": 3839.0,
+          "depth_p90_ft": 3920.0
+        },
+        "JACK": {
+          "filings": 11,
+          "depth_samples": 11,
+          "depth_p10_ft": 4359.0,
+          "depth_p50_ft": 4778.0,
+          "depth_p90_ft": 5500.0
+        },
+        "ARCHER": {
+          "filings": 7,
+          "depth_samples": 7,
+          "depth_p10_ft": 4410.0,
+          "depth_p50_ft": 5040.0,
+          "depth_p90_ft": 5250.0
+        },
+        "STEPHENS": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 3220.0,
+          "depth_p50_ft": 3255.0,
+          "depth_p90_ft": 3540.0
+        },
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5121.0,
+          "depth_p50_ft": 5121.0,
+          "depth_p90_ft": 5121.0
+        }
+      }
+    },
+    {
+      "raw": "HOME CREEK - DISPOSAL",
+      "filings": 34,
+      "counties": {
+        "STEPHENS": {
+          "filings": 34,
+          "depth_samples": 14,
+          "depth_p10_ft": 493.0,
+          "depth_p50_ft": 680.0,
+          "depth_p90_ft": 682.0
+        }
+      }
+    },
+    {
+      "raw": "JENNINGS - DISPOSAL",
+      "filings": 34,
+      "counties": {
+        "STEPHENS": {
+          "filings": 34,
+          "depth_samples": 13,
+          "depth_p10_ft": 2182.0,
+          "depth_p50_ft": 2255.0,
+          "depth_p90_ft": 2702.0
+        }
+      }
+    },
+    {
+      "raw": "SWASTIKA - DISPOSAL",
+      "filings": 34,
+      "counties": {
+        "STEPHENS": {
+          "filings": 34,
+          "depth_samples": 10,
+          "depth_p10_ft": 700.0,
+          "depth_p50_ft": 700.0,
+          "depth_p90_ft": 703.0
+        }
+      }
+    },
+    {
+      "raw": "MEGARGEL LIME",
+      "filings": 31,
+      "counties": {
+        "WICHITA": {
+          "filings": 29,
+          "depth_samples": 29,
+          "depth_p10_ft": 1535.0,
+          "depth_p50_ft": 1640.0,
+          "depth_p90_ft": 1867.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1072.0,
+          "depth_p50_ft": 1072.0,
+          "depth_p90_ft": 1072.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA - DISPOSAL",
+      "filings": 29,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 29,
+          "depth_samples": 13,
+          "depth_p10_ft": 3600.0,
+          "depth_p50_ft": 3856.0,
+          "depth_p90_ft": 4216.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO - DISPOSAL",
+      "filings": 28,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 28,
+          "depth_samples": 6,
+          "depth_p10_ft": 239.0,
+          "depth_p50_ft": 742.0,
+          "depth_p90_ft": 974.0
+        }
+      }
+    },
+    {
+      "raw": "BUTTRAM SAND - DISPOSAL",
+      "filings": 28,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 28,
+          "depth_samples": 7,
+          "depth_p10_ft": 920.0,
+          "depth_p50_ft": 1505.0,
+          "depth_p90_ft": 1770.0
+        }
+      }
+    },
+    {
+      "raw": "PREGNANT SHALE",
+      "filings": 28,
+      "counties": {
+        "JACK": {
+          "filings": 23,
+          "depth_samples": 23,
+          "depth_p10_ft": 4400.0,
+          "depth_p50_ft": 4600.0,
+          "depth_p90_ft": 4922.0
+        },
+        "PALO PINTO": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 3647.0,
+          "depth_p50_ft": 3742.0,
+          "depth_p90_ft": 3760.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO SAND - DISPOSAL",
+      "filings": 27,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 27,
+          "depth_samples": 3,
+          "depth_p10_ft": 2270.0,
+          "depth_p50_ft": 4036.0,
+          "depth_p90_ft": 4239.0
+        }
+      }
+    },
+    {
+      "raw": "CANYON SAND - DISPOSAL",
+      "filings": 27,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 27,
+          "depth_samples": 1,
+          "depth_p10_ft": 1350.0,
+          "depth_p50_ft": 1350.0,
+          "depth_p90_ft": 1350.0
+        }
+      }
+    },
+    {
+      "raw": "BIG SALINE - DISPOSAL",
+      "filings": 27,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 27,
+          "depth_samples": 8,
+          "depth_p10_ft": 3000.0,
+          "depth_p50_ft": 3622.0,
+          "depth_p90_ft": 4762.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT - DISPOSAL",
+      "filings": 27,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 27,
+          "depth_samples": 2,
+          "depth_p10_ft": 1120.0,
+          "depth_p50_ft": 1120.0,
+          "depth_p90_ft": 1290.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO LIME",
+      "filings": 27,
+      "counties": {
+        "YOUNG": {
+          "filings": 14,
+          "depth_samples": 10,
+          "depth_p10_ft": 964.0,
+          "depth_p50_ft": 1355.0,
+          "depth_p90_ft": 2428.0
+        },
+        "JACK": {
+          "filings": 8,
+          "depth_samples": 7,
+          "depth_p10_ft": 464.0,
+          "depth_p50_ft": 1013.0,
+          "depth_p90_ft": 1235.0
+        },
+        "PALO PINTO": {
+          "filings": 3,
+          "depth_samples": 2,
+          "depth_p10_ft": 272.0,
+          "depth_p50_ft": 272.0,
+          "depth_p90_ft": 1100.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 2838.0,
+          "depth_p50_ft": 2838.0,
+          "depth_p90_ft": 3328.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE",
+      "filings": 27,
+      "counties": {
+        "YOUNG": {
+          "filings": 13,
+          "depth_samples": 12,
+          "depth_p10_ft": 425.0,
+          "depth_p50_ft": 826.0,
+          "depth_p90_ft": 1066.0
+        },
+        "ARCHER": {
+          "filings": 8,
+          "depth_samples": 8,
+          "depth_p10_ft": 196.0,
+          "depth_p50_ft": 662.0,
+          "depth_p90_ft": 1572.0
+        },
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 602.0,
+          "depth_p50_ft": 1153.0,
+          "depth_p90_ft": 2123.0
+        }
+      }
+    },
+    {
+      "raw": "OIL SAND",
+      "filings": 25,
+      "counties": {
+        "YOUNG": {
+          "filings": 11,
+          "depth_samples": 10,
+          "depth_p10_ft": 659.0,
+          "depth_p50_ft": 852.0,
+          "depth_p90_ft": 971.0
+        },
+        "WICHITA": {
+          "filings": 10,
+          "depth_samples": 10,
+          "depth_p10_ft": 250.0,
+          "depth_p50_ft": 620.0,
+          "depth_p90_ft": 1307.0
+        },
+        "ARCHER": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 1330.0,
+          "depth_p50_ft": 1444.0,
+          "depth_p90_ft": 1456.0
+        }
+      }
+    },
+    {
+      "raw": "STAWN",
+      "filings": 24,
+      "counties": {
+        "JACK": {
+          "filings": 23,
+          "depth_samples": 23,
+          "depth_p10_ft": 1705.0,
+          "depth_p50_ft": 1732.0,
+          "depth_p90_ft": 1780.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1833.0,
+          "depth_p50_ft": 1833.0,
+          "depth_p90_ft": 1833.0
+        }
+      }
+    },
+    {
+      "raw": "BRYSON LIME",
+      "filings": 21,
+      "counties": {
+        "JACK": {
+          "filings": 18,
+          "depth_samples": 17,
+          "depth_p10_ft": 2238.0,
+          "depth_p50_ft": 3060.0,
+          "depth_p90_ft": 3434.0
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3790.0,
+          "depth_p50_ft": 3790.0,
+          "depth_p90_ft": 3790.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1587.0,
+          "depth_p50_ft": 1587.0,
+          "depth_p90_ft": 1587.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3608.0,
+          "depth_p50_ft": 3608.0,
+          "depth_p90_ft": 3608.0
+        }
+      }
+    },
+    {
+      "raw": "SAND",
+      "filings": 18,
+      "counties": {
+        "YOUNG": {
+          "filings": 8,
+          "depth_samples": 5,
+          "depth_p10_ft": 270.0,
+          "depth_p50_ft": 2263.0,
+          "depth_p90_ft": 2584.0
+        },
+        "WICHITA": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 656.0,
+          "depth_p50_ft": 1190.0,
+          "depth_p90_ft": 1586.0
+        },
+        "ARCHER": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 676.0,
+          "depth_p50_ft": 4345.0,
+          "depth_p90_ft": 4900.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2890.0,
+          "depth_p50_ft": 2890.0,
+          "depth_p90_ft": 2890.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1916.0,
+          "depth_p50_ft": 1916.0,
+          "depth_p90_ft": 1916.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPIAN",
+      "filings": 18,
+      "counties": {
+        "YOUNG": {
+          "filings": 7,
+          "depth_samples": 6,
+          "depth_p10_ft": 4128.0,
+          "depth_p50_ft": 4398.0,
+          "depth_p90_ft": 5231.0
+        },
+        "JACK": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 4650.0,
+          "depth_p50_ft": 5378.0,
+          "depth_p90_ft": 5550.0
+        },
+        "ARCHER": {
+          "filings": 3,
+          "depth_samples": 2,
+          "depth_p10_ft": 5054.0,
+          "depth_p50_ft": 5054.0,
+          "depth_p90_ft": 5184.0
+        },
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4348.0,
+          "depth_p50_ft": 4348.0,
+          "depth_p90_ft": 4505.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA",
+      "filings": 17,
+      "counties": {
+        "JACK": {
+          "filings": 15,
+          "depth_samples": 15,
+          "depth_p10_ft": 4963.0,
+          "depth_p50_ft": 5120.0,
+          "depth_p90_ft": 5463.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4400.0,
+          "depth_p50_ft": 4400.0,
+          "depth_p90_ft": 4400.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3798.0,
+          "depth_p50_ft": 3798.0,
+          "depth_p90_ft": 3798.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSITE SAND",
+      "filings": 17,
+      "counties": {
+        "ARCHER": {
+          "filings": 8,
+          "depth_samples": 8,
+          "depth_p10_ft": 960.0,
+          "depth_p50_ft": 1315.0,
+          "depth_p90_ft": 1365.0
+        },
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1176.0,
+          "depth_p50_ft": 1764.0,
+          "depth_p90_ft": 2114.0
+        },
+        "YOUNG": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 500.0,
+          "depth_p50_ft": 500.0,
+          "depth_p90_ft": 1130.0
+        }
+      }
+    },
+    {
+      "raw": "LIME",
+      "filings": 16,
+      "counties": {
+        "WICHITA": {
+          "filings": 9,
+          "depth_samples": 9,
+          "depth_p10_ft": 597.0,
+          "depth_p50_ft": 1487.0,
+          "depth_p90_ft": 2700.0
+        },
+        "YOUNG": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 770.0,
+          "depth_p50_ft": 770.0,
+          "depth_p90_ft": 4202.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1557.0,
+          "depth_p50_ft": 1557.0,
+          "depth_p90_ft": 1590.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4452.0,
+          "depth_p50_ft": 4452.0,
+          "depth_p90_ft": 4452.0
+        }
+      }
+    },
+    {
+      "raw": "BIG SALINE",
+      "filings": 15,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 12,
+          "depth_samples": 10,
+          "depth_p10_ft": 2914.0,
+          "depth_p50_ft": 3390.0,
+          "depth_p90_ft": 3604.0
+        },
+        "STEPHENS": {
+          "filings": 3,
+          "depth_samples": 2,
+          "depth_p10_ft": 3464.0,
+          "depth_p50_ft": 3464.0,
+          "depth_p90_ft": 3578.0
+        }
+      }
+    },
+    {
+      "raw": "BUTTRAM SAND",
+      "filings": 15,
+      "counties": {
+        "JACK": {
+          "filings": 11,
+          "depth_samples": 11,
+          "depth_p10_ft": 2011.0,
+          "depth_p50_ft": 2088.0,
+          "depth_p90_ft": 2338.0
+        },
+        "YOUNG": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 1639.0,
+          "depth_p50_ft": 1680.0,
+          "depth_p90_ft": 2081.0
+        }
+      }
+    },
+    {
+      "raw": "DUFFER",
+      "filings": 14,
+      "counties": {
+        "STEPHENS": {
+          "filings": 13,
+          "depth_samples": 10,
+          "depth_p10_ft": 3864.0,
+          "depth_p50_ft": 3965.0,
+          "depth_p90_ft": 4026.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3428.0,
+          "depth_p50_ft": 3428.0,
+          "depth_p90_ft": 3428.0
+        }
+      }
+    },
+    {
+      "raw": "COLEMAN JUNCTION",
+      "filings": 13,
+      "counties": {
+        "WICHITA": {
+          "filings": 13,
+          "depth_samples": 13,
+          "depth_p10_ft": 626.0,
+          "depth_p50_ft": 690.0,
+          "depth_p90_ft": 807.0
+        }
+      }
+    },
+    {
+      "raw": "GOEN",
+      "filings": 13,
+      "counties": {
+        "WICHITA": {
+          "filings": 12,
+          "depth_samples": 12,
+          "depth_p10_ft": 3802.0,
+          "depth_p50_ft": 3830.0,
+          "depth_p90_ft": 4128.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1094.0,
+          "depth_p50_ft": 1094.0,
+          "depth_p90_ft": 1094.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER 600 SAND",
+      "filings": 12,
+      "counties": {
+        "ARCHER": {
+          "filings": 12,
+          "depth_samples": 12,
+          "depth_p10_ft": 610.0,
+          "depth_p50_ft": 680.0,
+          "depth_p90_ft": 696.0
+        }
+      }
+    },
+    {
+      "raw": "KMA SAND",
+      "filings": 11,
+      "counties": {
+        "WICHITA": {
+          "filings": 11,
+          "depth_samples": 11,
+          "depth_p10_ft": 3782.0,
+          "depth_p50_ft": 3872.0,
+          "depth_p90_ft": 4030.0
+        }
+      }
+    },
+    {
+      "raw": "WINCHELL",
+      "filings": 11,
+      "counties": {
+        "STEPHENS": {
+          "filings": 11,
+          "depth_samples": 11,
+          "depth_p10_ft": 706.0,
+          "depth_p50_ft": 786.0,
+          "depth_p90_ft": 819.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN",
+      "filings": 11,
+      "counties": {
+        "WICHITA": {
+          "filings": 11,
+          "depth_samples": 11,
+          "depth_p10_ft": 404.0,
+          "depth_p50_ft": 459.0,
+          "depth_p90_ft": 703.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER BARNETT",
+      "filings": 10,
+      "counties": {
+        "JACK": {
+          "filings": 10,
+          "depth_samples": 10,
+          "depth_p10_ft": 5196.0,
+          "depth_p50_ft": 5780.0,
+          "depth_p90_ft": 5950.0
+        }
+      }
+    },
+    {
+      "raw": "BRANNON BRIDGE",
+      "filings": 10,
+      "counties": {
+        "JACK": {
+          "filings": 8,
+          "depth_samples": 8,
+          "depth_p10_ft": 2624.0,
+          "depth_p50_ft": 2996.0,
+          "depth_p90_ft": 3400.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2193.0,
+          "depth_p50_ft": 2193.0,
+          "depth_p90_ft": 2193.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2505.0,
+          "depth_p50_ft": 2505.0,
+          "depth_p90_ft": 2505.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSITE",
+      "filings": 10,
+      "counties": {
+        "ARCHER": {
+          "filings": 6,
+          "depth_samples": 5,
+          "depth_p10_ft": 1100.0,
+          "depth_p50_ft": 1550.0,
+          "depth_p90_ft": 1702.0
+        },
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1732.0,
+          "depth_p50_ft": 1845.0,
+          "depth_p90_ft": 1925.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 700.0,
+          "depth_p50_ft": 700.0,
+          "depth_p90_ft": 700.0
+        }
+      }
+    },
+    {
+      "raw": "MCLESTER",
+      "filings": 9,
+      "counties": {
+        "YOUNG": {
+          "filings": 9,
+          "depth_samples": 8,
+          "depth_p10_ft": 3800.0,
+          "depth_p50_ft": 3824.0,
+          "depth_p90_ft": 4045.0
+        }
+      }
+    },
+    {
+      "raw": "KMA II SAND",
+      "filings": 9,
+      "counties": {
+        "WICHITA": {
+          "filings": 9,
+          "depth_samples": 9,
+          "depth_p10_ft": 3700.0,
+          "depth_p50_ft": 3750.0,
+          "depth_p90_ft": 4000.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER STRAWN",
+      "filings": 9,
+      "counties": {
+        "ARCHER": {
+          "filings": 4,
+          "depth_samples": 3,
+          "depth_p10_ft": 3837.0,
+          "depth_p50_ft": 3859.0,
+          "depth_p90_ft": 3859.0
+        },
+        "JACK": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3990.0,
+          "depth_p50_ft": 4096.0,
+          "depth_p90_ft": 4315.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2806.0,
+          "depth_p50_ft": 2806.0,
+          "depth_p90_ft": 2806.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3600.0,
+          "depth_p50_ft": 3600.0,
+          "depth_p90_ft": 3600.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPI",
+      "filings": 8,
+      "counties": {
+        "YOUNG": {
+          "filings": 8,
+          "depth_samples": 6,
+          "depth_p10_ft": 4254.0,
+          "depth_p50_ft": 4545.0,
+          "depth_p90_ft": 5277.0
+        }
+      }
+    },
+    {
+      "raw": "BLACK SHALE",
+      "filings": 8,
+      "counties": {
+        "YOUNG": {
+          "filings": 6,
+          "depth_samples": 5,
+          "depth_p10_ft": 632.0,
+          "depth_p50_ft": 822.0,
+          "depth_p90_ft": 1190.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1440.0,
+          "depth_p50_ft": 1440.0,
+          "depth_p90_ft": 1440.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS LIME",
+      "filings": 8,
+      "counties": {
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1411.0,
+          "depth_p50_ft": 1411.0,
+          "depth_p90_ft": 1633.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1164.0,
+          "depth_p50_ft": 1164.0,
+          "depth_p90_ft": 1164.0
+        }
+      }
+    },
+    {
+      "raw": "WATER SAND",
+      "filings": 8,
+      "counties": {
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 570.0,
+          "depth_p50_ft": 912.0,
+          "depth_p90_ft": 1622.0
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 650.0,
+          "depth_p50_ft": 650.0,
+          "depth_p90_ft": 650.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 270.0,
+          "depth_p50_ft": 270.0,
+          "depth_p90_ft": 270.0
+        }
+      }
+    },
+    {
+      "raw": "TRINITY",
+      "filings": 8,
+      "counties": {
+        "YOUNG": {
+          "filings": 5,
+          "depth_samples": 4,
+          "depth_p10_ft": 350.0,
+          "depth_p50_ft": 400.0,
+          "depth_p90_ft": 400.0
+        },
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 220.0,
+          "depth_p50_ft": 220.0,
+          "depth_p90_ft": 220.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER MCLESTER",
+      "filings": 7,
+      "counties": {
+        "YOUNG": {
+          "filings": 7,
+          "depth_samples": 6,
+          "depth_p10_ft": 3822.0,
+          "depth_p50_ft": 3830.0,
+          "depth_p90_ft": 3865.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER BARNETT SHALE",
+      "filings": 7,
+      "counties": {
+        "JACK": {
+          "filings": 7,
+          "depth_samples": 7,
+          "depth_p10_ft": 5500.0,
+          "depth_p50_ft": 5675.0,
+          "depth_p90_ft": 6000.0
+        }
+      }
+    },
+    {
+      "raw": "VILLAGE BEND LIME",
+      "filings": 7,
+      "counties": {
+        "JACK": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1533.0,
+          "depth_p50_ft": 1997.0,
+          "depth_p90_ft": 2073.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2705.0,
+          "depth_p50_ft": 2705.0,
+          "depth_p90_ft": 2705.0
+        }
+      }
+    },
+    {
+      "raw": "ELLENBERGER",
+      "filings": 7,
+      "counties": {
+        "WICHITA": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 4100.0,
+          "depth_p50_ft": 4100.0,
+          "depth_p90_ft": 5144.0
+        },
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4311.0,
+          "depth_p50_ft": 4311.0,
+          "depth_p90_ft": 4572.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 6744.0,
+          "depth_p50_ft": 6744.0,
+          "depth_p90_ft": 6744.0
+        }
+      }
+    },
+    {
+      "raw": "CAPPS",
+      "filings": 7,
+      "counties": {
+        "STEPHENS": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1735.0,
+          "depth_p50_ft": 1795.0,
+          "depth_p90_ft": 1816.0
+        },
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1547.0,
+          "depth_p50_ft": 1547.0,
+          "depth_p90_ft": 1584.0
+        },
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 1932.0,
+          "depth_p50_ft": 1932.0,
+          "depth_p90_ft": 1932.0
+        }
+      }
+    },
+    {
+      "raw": "MEGARGEL LIMESTONE",
+      "filings": 6,
+      "counties": {
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1507.0,
+          "depth_p50_ft": 1515.0,
+          "depth_p90_ft": 1868.0
+        }
+      }
+    },
+    {
+      "raw": "WEIR SAND",
+      "filings": 6,
+      "counties": {
+        "JACK": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1790.0,
+          "depth_p50_ft": 1961.0,
+          "depth_p90_ft": 2210.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONGL",
+      "filings": 6,
+      "counties": {
+        "JACK": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 4320.0,
+          "depth_p50_ft": 5042.0,
+          "depth_p90_ft": 5498.0
+        }
+      }
+    },
+    {
+      "raw": "GOEN LIME",
+      "filings": 6,
+      "counties": {
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 3785.0,
+          "depth_p50_ft": 3910.0,
+          "depth_p90_ft": 4050.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER THOMAS SAND",
+      "filings": 6,
+      "counties": {
+        "ARCHER": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1480.0,
+          "depth_p50_ft": 1480.0,
+          "depth_p90_ft": 1512.0
+        }
+      }
+    },
+    {
+      "raw": "CAPPS LM",
+      "filings": 6,
+      "counties": {
+        "JACK": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 1158.0,
+          "depth_p50_ft": 1515.0,
+          "depth_p90_ft": 1991.0
+        }
+      }
+    },
+    {
+      "raw": "KMA I SAND",
+      "filings": 6,
+      "counties": {
+        "WICHITA": {
+          "filings": 6,
+          "depth_samples": 6,
+          "depth_p10_ft": 3619.0,
+          "depth_p50_ft": 3740.0,
+          "depth_p90_ft": 3966.0
+        }
+      }
+    },
+    {
+      "raw": "MIDDLE CADDO",
+      "filings": 6,
+      "counties": {
+        "YOUNG": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 4482.0,
+          "depth_p50_ft": 4550.0,
+          "depth_p90_ft": 4556.0
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4634.0,
+          "depth_p50_ft": 4634.0,
+          "depth_p90_ft": 4634.0
+        }
+      }
+    },
+    {
+      "raw": "CONGL",
+      "filings": 6,
+      "counties": {
+        "JACK": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 4736.0,
+          "depth_p50_ft": 5120.0,
+          "depth_p90_ft": 5514.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3820.0,
+          "depth_p50_ft": 3820.0,
+          "depth_p90_ft": 3820.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS LIME",
+      "filings": 6,
+      "counties": {
+        "JACK": {
+          "filings": 4,
+          "depth_samples": 3,
+          "depth_p10_ft": 4638.0,
+          "depth_p50_ft": 4901.0,
+          "depth_p90_ft": 5660.0
+        },
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3988.0,
+          "depth_p50_ft": 3988.0,
+          "depth_p90_ft": 4058.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO A",
+      "filings": 6,
+      "counties": {
+        "YOUNG": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 3879.0,
+          "depth_p50_ft": 3920.0,
+          "depth_p90_ft": 3969.0
+        },
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3127.0,
+          "depth_p50_ft": 3127.0,
+          "depth_p90_ft": 3356.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER CADDO",
+      "filings": 6,
+      "counties": {
+        "YOUNG": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 4446.0,
+          "depth_p50_ft": 4446.0,
+          "depth_p90_ft": 4446.0
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4772.0,
+          "depth_p50_ft": 4772.0,
+          "depth_p90_ft": 4772.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER STRAWN",
+      "filings": 6,
+      "counties": {
+        "ARCHER": {
+          "filings": 3,
+          "depth_samples": 2,
+          "depth_p10_ft": 3800.0,
+          "depth_p50_ft": 3800.0,
+          "depth_p90_ft": 3814.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2233.0,
+          "depth_p50_ft": 2233.0,
+          "depth_p90_ft": 2233.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1260.0,
+          "depth_p50_ft": 1260.0,
+          "depth_p90_ft": 1260.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1960.0,
+          "depth_p50_ft": 1960.0,
+          "depth_p90_ft": 1960.0
+        }
+      }
+    },
+    {
+      "raw": "FORESTBERG LIME",
+      "filings": 5,
+      "counties": {
+        "JACK": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 5870.0,
+          "depth_p50_ft": 5892.0,
+          "depth_p90_ft": 5945.0
+        }
+      }
+    },
+    {
+      "raw": "BRECKENRIDGE LS",
+      "filings": 5,
+      "counties": {
+        "WICHITA": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 1360.0,
+          "depth_p50_ft": 1360.0,
+          "depth_p90_ft": 1360.0
+        }
+      }
+    },
+    {
+      "raw": "KMA III SAND",
+      "filings": 5,
+      "counties": {
+        "WICHITA": {
+          "filings": 5,
+          "depth_samples": 5,
+          "depth_p10_ft": 3770.0,
+          "depth_p50_ft": 3860.0,
+          "depth_p90_ft": 4060.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN SAND",
+      "filings": 5,
+      "counties": {
+        "WICHITA": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 460.0,
+          "depth_p50_ft": 700.0,
+          "depth_p90_ft": 722.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1471.0,
+          "depth_p50_ft": 1471.0,
+          "depth_p90_ft": 1471.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO B",
+      "filings": 5,
+      "counties": {
+        "YOUNG": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3962.0,
+          "depth_p50_ft": 4061.0,
+          "depth_p90_ft": 4077.0
+        },
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3189.0,
+          "depth_p50_ft": 3189.0,
+          "depth_p90_ft": 3430.0
+        }
+      }
+    },
+    {
+      "raw": "COMYN",
+      "filings": 5,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 4367.0,
+          "depth_p50_ft": 4506.0,
+          "depth_p90_ft": 4532.0
+        },
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 5411.0,
+          "depth_p50_ft": 5411.0,
+          "depth_p90_ft": 5477.0
+        }
+      }
+    },
+    {
+      "raw": "BARNETT",
+      "filings": 5,
+      "counties": {
+        "JACK": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 5998.0,
+          "depth_p50_ft": 6046.0,
+          "depth_p90_ft": 6314.0
+        },
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4588.0,
+          "depth_p50_ft": 4588.0,
+          "depth_p90_ft": 4680.0
+        }
+      }
+    },
+    {
+      "raw": "SMITHWICK",
+      "filings": 5,
+      "counties": {
+        "YOUNG": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3760.0,
+          "depth_p50_ft": 3808.0,
+          "depth_p90_ft": 3810.0
+        },
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3088.0,
+          "depth_p50_ft": 3088.0,
+          "depth_p90_ft": 3122.0
+        }
+      }
+    },
+    {
+      "raw": "KMA ZONE II",
+      "filings": 5,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 2,
+          "depth_p10_ft": 3780.0,
+          "depth_p50_ft": 3780.0,
+          "depth_p90_ft": 3825.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3826.0,
+          "depth_p50_ft": 3826.0,
+          "depth_p90_ft": 3848.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSITE LIME",
+      "filings": 5,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 920.0,
+          "depth_p50_ft": 920.0,
+          "depth_p90_ft": 1571.0
+        },
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1897.0,
+          "depth_p50_ft": 1897.0,
+          "depth_p90_ft": 1907.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1126.0,
+          "depth_p50_ft": 1126.0,
+          "depth_p90_ft": 1126.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPI LIME",
+      "filings": 5,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 4292.0,
+          "depth_p50_ft": 4292.0,
+          "depth_p90_ft": 4292.0
+        },
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 5145.0,
+          "depth_p50_ft": 5145.0,
+          "depth_p90_ft": 5170.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4380.0,
+          "depth_p50_ft": 4380.0,
+          "depth_p90_ft": 4380.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO OIL SAND",
+      "filings": 4,
+      "counties": {
+        "WICHITA": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 440.0,
+          "depth_p50_ft": 920.0,
+          "depth_p90_ft": 1602.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER MCLESTER",
+      "filings": 4,
+      "counties": {
+        "YOUNG": {
+          "filings": 4,
+          "depth_samples": 3,
+          "depth_p10_ft": 3905.0,
+          "depth_p50_ft": 3905.0,
+          "depth_p90_ft": 4050.0
+        }
+      }
+    },
+    {
+      "raw": "DOG BEND LIME",
+      "filings": 4,
+      "counties": {
+        "JACK": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 1785.0,
+          "depth_p50_ft": 1792.0,
+          "depth_p90_ft": 1868.0
+        }
+      }
+    },
+    {
+      "raw": "FORRESTBURG LIME",
+      "filings": 4,
+      "counties": {
+        "JACK": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 4670.0,
+          "depth_p50_ft": 5180.0,
+          "depth_p90_ft": 5576.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT SANDS",
+      "filings": 4,
+      "counties": {
+        "WICHITA": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 500.0,
+          "depth_p50_ft": 1530.0,
+          "depth_p90_ft": 1530.0
+        }
+      }
+    },
+    {
+      "raw": "K-M-A",
+      "filings": 4,
+      "counties": {
+        "WICHITA": {
+          "filings": 4,
+          "depth_samples": 3,
+          "depth_p10_ft": 3605.0,
+          "depth_p50_ft": 3716.0,
+          "depth_p90_ft": 3815.0
+        }
+      }
+    },
+    {
+      "raw": "WER SAND",
+      "filings": 4,
+      "counties": {
+        "JACK": {
+          "filings": 4,
+          "depth_samples": 4,
+          "depth_p10_ft": 2235.0,
+          "depth_p50_ft": 2242.0,
+          "depth_p90_ft": 2319.0
+        }
+      }
+    },
+    {
+      "raw": "FORESTBURG LIME",
+      "filings": 4,
+      "counties": {
+        "JACK": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 5070.0,
+          "depth_p50_ft": 5979.0,
+          "depth_p90_ft": 6031.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5008.0,
+          "depth_p50_ft": 5008.0,
+          "depth_p90_ft": 5008.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO LM",
+      "filings": 4,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 792.0,
+          "depth_p50_ft": 792.0,
+          "depth_p90_ft": 796.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1350.0,
+          "depth_p50_ft": 1350.0,
+          "depth_p90_ft": 1350.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1186.0,
+          "depth_p50_ft": 1186.0,
+          "depth_p90_ft": 1186.0
+        }
+      }
+    },
+    {
+      "raw": "BRECKENRIDGE LIME",
+      "filings": 4,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 175.0,
+          "depth_p50_ft": 175.0,
+          "depth_p90_ft": 624.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1696.0,
+          "depth_p50_ft": 1696.0,
+          "depth_p90_ft": 1696.0
+        }
+      }
+    },
+    {
+      "raw": "UNKNOWN",
+      "filings": 4,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALL",
+      "filings": 4,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4082.0,
+          "depth_p50_ft": 4082.0,
+          "depth_p90_ft": 4188.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5512.0,
+          "depth_p50_ft": 5512.0,
+          "depth_p90_ft": 5512.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4700.0,
+          "depth_p50_ft": 4700.0,
+          "depth_p90_ft": 4700.0
+        }
+      }
+    },
+    {
+      "raw": "MILHAM LIME",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 2112.0,
+          "depth_p50_ft": 2145.0,
+          "depth_p90_ft": 2150.0
+        }
+      }
+    },
+    {
+      "raw": "CONGLOMERATE LIME",
+      "filings": 3,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3604.0,
+          "depth_p50_ft": 3652.0,
+          "depth_p90_ft": 3652.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER GUNSIGHT",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1510.0,
+          "depth_p50_ft": 1571.0,
+          "depth_p90_ft": 1571.0
+        }
+      }
+    },
+    {
+      "raw": "SAND W/ OIL SHOW",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 738.0,
+          "depth_p50_ft": 1618.0,
+          "depth_p90_ft": 1686.0
+        }
+      }
+    },
+    {
+      "raw": "A 1 CONGLOMERATE",
+      "filings": 3,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3576.0,
+          "depth_p50_ft": 3620.0,
+          "depth_p90_ft": 3620.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN SD",
+      "filings": 3,
+      "counties": {
+        "YOUNG": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3155.0,
+          "depth_p50_ft": 3198.0,
+          "depth_p90_ft": 3210.0
+        }
+      }
+    },
+    {
+      "raw": "MEGARGEL SAND",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1210.0,
+          "depth_p50_ft": 1736.0,
+          "depth_p90_ft": 1948.0
+        }
+      }
+    },
+    {
+      "raw": "KMA ZONE I",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 2,
+          "depth_p10_ft": 2740.0,
+          "depth_p50_ft": 2740.0,
+          "depth_p90_ft": 3705.0
+        }
+      }
+    },
+    {
+      "raw": "CANYON LIME",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 2199.0,
+          "depth_p50_ft": 2199.0,
+          "depth_p90_ft": 2329.0
+        }
+      }
+    },
+    {
+      "raw": "CAPPS LIMESTONE",
+      "filings": 3,
+      "counties": {
+        "JACK": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1550.0,
+          "depth_p50_ft": 1690.0,
+          "depth_p90_ft": 1855.0
+        }
+      }
+    },
+    {
+      "raw": "KMA I",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3702.0,
+          "depth_p50_ft": 3730.0,
+          "depth_p90_ft": 3770.0
+        }
+      }
+    },
+    {
+      "raw": "WARD",
+      "filings": 3,
+      "counties": {
+        "ARCHER": {
+          "filings": 3,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "MCGARGEL",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1652.0,
+          "depth_p50_ft": 1660.0,
+          "depth_p90_ft": 1660.0
+        }
+      }
+    },
+    {
+      "raw": "NOBLE LIME",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 2100.0,
+          "depth_p50_ft": 2137.0,
+          "depth_p90_ft": 2142.0
+        }
+      }
+    },
+    {
+      "raw": "WICHITA COUNTY REGULAR",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1034.0,
+          "depth_p50_ft": 1709.0,
+          "depth_p90_ft": 1709.0
+        }
+      }
+    },
+    {
+      "raw": "KMA II",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3810.0,
+          "depth_p50_ft": 3846.0,
+          "depth_p90_ft": 4420.0
+        }
+      }
+    },
+    {
+      "raw": "HOME CREEK",
+      "filings": 3,
+      "counties": {
+        "STEPHENS": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 492.0,
+          "depth_p50_ft": 505.0,
+          "depth_p90_ft": 580.0
+        }
+      }
+    },
+    {
+      "raw": "SMITHWICH SHALE",
+      "filings": 3,
+      "counties": {
+        "STEPHENS": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 3168.0,
+          "depth_p50_ft": 3253.0,
+          "depth_p90_ft": 3274.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONGLOMERASTE",
+      "filings": 3,
+      "counties": {
+        "JACK": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 486.0,
+          "depth_p50_ft": 4468.0,
+          "depth_p90_ft": 4600.0
+        }
+      }
+    },
+    {
+      "raw": "DYSON LIME",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 3,
+          "depth_samples": 3,
+          "depth_p10_ft": 1644.0,
+          "depth_p50_ft": 1655.0,
+          "depth_p90_ft": 1681.0
+        }
+      }
+    },
+    {
+      "raw": "0",
+      "filings": 3,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "KMA LIMESTONE",
+      "filings": 3,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3652.0,
+          "depth_p50_ft": 3652.0,
+          "depth_p90_ft": 3652.0
+        },
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "SHALE & SAND",
+      "filings": 3,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 1195.0,
+          "depth_p50_ft": 1195.0,
+          "depth_p90_ft": 1195.0
+        },
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS LIMESTONE",
+      "filings": 3,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4690.0,
+          "depth_p50_ft": 4690.0,
+          "depth_p90_ft": 5220.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4686.0,
+          "depth_p50_ft": 4686.0,
+          "depth_p90_ft": 4686.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO CONGLOMERATE",
+      "filings": 3,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5118.0,
+          "depth_p50_ft": 5118.0,
+          "depth_p90_ft": 5118.0
+        },
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4849.0,
+          "depth_p50_ft": 4849.0,
+          "depth_p90_ft": 4849.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3306.0,
+          "depth_p50_ft": 3306.0,
+          "depth_p90_ft": 3306.0
+        }
+      }
+    },
+    {
+      "raw": "CONGL.",
+      "filings": 3,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5626.0,
+          "depth_p50_ft": 5626.0,
+          "depth_p90_ft": 5626.0
+        },
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3955.0,
+          "depth_p50_ft": 3955.0,
+          "depth_p90_ft": 3955.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4180.0,
+          "depth_p50_ft": 4180.0,
+          "depth_p90_ft": 4180.0
+        }
+      }
+    },
+    {
+      "raw": "SMITHWICK SHALE",
+      "filings": 3,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3034.0,
+          "depth_p50_ft": 3034.0,
+          "depth_p90_ft": 3034.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3646.0,
+          "depth_p50_ft": 3646.0,
+          "depth_p90_ft": 3646.0
+        }
+      }
+    },
+    {
+      "raw": "PENNSYLVANIAN",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 430.0,
+          "depth_p50_ft": 430.0,
+          "depth_p90_ft": 594.0
+        }
+      }
+    },
+    {
+      "raw": "550' SAND",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 562.0,
+          "depth_p50_ft": 562.0,
+          "depth_p90_ft": 562.0
+        }
+      }
+    },
+    {
+      "raw": "BS CONGL. NO. 4",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 3382.0,
+          "depth_p50_ft": 3382.0,
+          "depth_p90_ft": 3382.0
+        }
+      }
+    },
+    {
+      "raw": "BS CONGL. NO. 3",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 3295.0,
+          "depth_p50_ft": 3295.0,
+          "depth_p90_ft": 3295.0
+        }
+      }
+    },
+    {
+      "raw": "2RD STRAWN SAND",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 1750.0,
+          "depth_p50_ft": 1750.0,
+          "depth_p90_ft": 1750.0
+        }
+      }
+    },
+    {
+      "raw": "PACE AND STRANGE SAND",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 3086.0,
+          "depth_p50_ft": 3086.0,
+          "depth_p90_ft": 3086.0
+        }
+      }
+    },
+    {
+      "raw": "CHESTER LIMESTONE",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 5041.0,
+          "depth_p50_ft": 5041.0,
+          "depth_p90_ft": 5066.0
+        }
+      }
+    },
+    {
+      "raw": "NO PRINCIPLE MARKERS",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "TOP STRAWN A",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1420.0,
+          "depth_p50_ft": 1420.0,
+          "depth_p90_ft": 1433.0
+        }
+      }
+    },
+    {
+      "raw": "N/A",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "1400' SAND",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1384.0,
+          "depth_p50_ft": 1384.0,
+          "depth_p90_ft": 1384.0
+        }
+      }
+    },
+    {
+      "raw": "1ST STRAWN SAND",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 1150.0,
+          "depth_p50_ft": 1150.0,
+          "depth_p90_ft": 1150.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA CONGLOMERATES",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 5009.0,
+          "depth_p50_ft": 5009.0,
+          "depth_p90_ft": 5041.0
+        }
+      }
+    },
+    {
+      "raw": "CISCOE",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1148.0,
+          "depth_p50_ft": 1148.0,
+          "depth_p90_ft": 1148.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO LS",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3873.0,
+          "depth_p50_ft": 3873.0,
+          "depth_p90_ft": 3992.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SHALLOW",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 712.0,
+          "depth_p50_ft": 712.0,
+          "depth_p90_ft": 830.0
+        }
+      }
+    },
+    {
+      "raw": "650' SAND",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 684.0,
+          "depth_p50_ft": 684.0,
+          "depth_p90_ft": 684.0
+        }
+      }
+    },
+    {
+      "raw": "MIDDLE STRAWN LIMESTONE",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 2924.0,
+          "depth_p50_ft": 2924.0,
+          "depth_p90_ft": 2924.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS CONGLOMERATES",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4530.0,
+          "depth_p50_ft": 4530.0,
+          "depth_p90_ft": 4533.0
+        }
+      }
+    },
+    {
+      "raw": "K-M-A  LIME",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3727.0,
+          "depth_p50_ft": 3727.0,
+          "depth_p90_ft": 3741.0
+        }
+      }
+    },
+    {
+      "raw": "K-M-A ZONE I",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3804.0,
+          "depth_p50_ft": 3804.0,
+          "depth_p90_ft": 3820.0
+        }
+      }
+    },
+    {
+      "raw": "KAMAY",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4252.0,
+          "depth_p50_ft": 4252.0,
+          "depth_p90_ft": 4252.0
+        }
+      }
+    },
+    {
+      "raw": "KISSINGER SAND",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 2450.0,
+          "depth_p50_ft": 2450.0,
+          "depth_p90_ft": 2450.0
+        }
+      }
+    },
+    {
+      "raw": "KMA ZONE 2",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3873.0,
+          "depth_p50_ft": 3873.0,
+          "depth_p90_ft": 3873.0
+        }
+      }
+    },
+    {
+      "raw": "MCLESTER SAND",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3717.0,
+          "depth_p50_ft": 3717.0,
+          "depth_p90_ft": 3756.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLLS/CONGLOMERATE",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4959.0,
+          "depth_p50_ft": 4959.0,
+          "depth_p90_ft": 4959.0
+        }
+      }
+    },
+    {
+      "raw": "MAZDA FENDLEY SD",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4050.0,
+          "depth_p50_ft": 4050.0,
+          "depth_p90_ft": 4065.0
+        }
+      }
+    },
+    {
+      "raw": "BEND",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3952.0,
+          "depth_p50_ft": 3952.0,
+          "depth_p90_ft": 4170.0
+        }
+      }
+    },
+    {
+      "raw": "BUTTRAM SANDSTONE",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4000.0,
+          "depth_p50_ft": 4000.0,
+          "depth_p90_ft": 4000.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE GRAY",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1476.0,
+          "depth_p50_ft": 1476.0,
+          "depth_p90_ft": 1476.0
+        }
+      }
+    },
+    {
+      "raw": "LIMEY SHALE",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 1100.0,
+          "depth_p50_ft": 1100.0,
+          "depth_p90_ft": 1100.0
+        }
+      }
+    },
+    {
+      "raw": "BRACKENRIDGE LIME",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 125.0,
+          "depth_p50_ft": 125.0,
+          "depth_p90_ft": 125.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE & LIME",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 619.0,
+          "depth_p50_ft": 619.0,
+          "depth_p90_ft": 3535.0
+        }
+      }
+    },
+    {
+      "raw": "SANDY SHALE",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 966.0,
+          "depth_p50_ft": 966.0,
+          "depth_p90_ft": 2366.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN - ZONE 1",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1360.0,
+          "depth_p50_ft": 1360.0,
+          "depth_p90_ft": 1391.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN - ZONE 2",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1426.0,
+          "depth_p50_ft": 1426.0,
+          "depth_p90_ft": 1462.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN - ZONE 3",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1504.0,
+          "depth_p50_ft": 1504.0,
+          "depth_p90_ft": 1560.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN - ZONE 4",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1520.0,
+          "depth_p50_ft": 1520.0,
+          "depth_p90_ft": 1569.0
+        }
+      }
+    },
+    {
+      "raw": "LIMESTONE",
+      "filings": 2,
+      "counties": {
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 850.0,
+          "depth_p50_ft": 850.0,
+          "depth_p90_ft": 1800.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN CONGL",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "STRAWN LIME",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 2600.0,
+          "depth_p50_ft": 2600.0,
+          "depth_p90_ft": 2600.0
+        }
+      }
+    },
+    {
+      "raw": "SADDLE CREEK",
+      "filings": 2,
+      "counties": {
+        "WICHITA": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 1265.0,
+          "depth_p50_ft": 1265.0,
+          "depth_p90_ft": 1291.0
+        }
+      }
+    },
+    {
+      "raw": "DOG BEND",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 2120.0,
+          "depth_p50_ft": 2120.0,
+          "depth_p90_ft": 2120.0
+        }
+      }
+    },
+    {
+      "raw": "BUTRUM",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 2628.0,
+          "depth_p50_ft": 2628.0,
+          "depth_p90_ft": 2655.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER CADDO",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4680.0,
+          "depth_p50_ft": 4680.0,
+          "depth_p90_ft": 4680.0
+        }
+      }
+    },
+    {
+      "raw": "PREGANT SHALE",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4670.0,
+          "depth_p50_ft": 4670.0,
+          "depth_p90_ft": 4700.0
+        }
+      }
+    },
+    {
+      "raw": "BERGEN (CONGL)",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "BURLESON STRAWN",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 1656.0,
+          "depth_p50_ft": 1656.0,
+          "depth_p90_ft": 1656.0
+        }
+      }
+    },
+    {
+      "raw": "BERGEN (STRAWN)",
+      "filings": 2,
+      "counties": {
+        "YOUNG": {
+          "filings": 2,
+          "depth_samples": 1,
+          "depth_p10_ft": 3165.0,
+          "depth_p50_ft": 3165.0,
+          "depth_p90_ft": 3165.0
+        }
+      }
+    },
+    {
+      "raw": "T/CADDO",
+      "filings": 2,
+      "counties": {
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3320.0,
+          "depth_p50_ft": 3320.0,
+          "depth_p90_ft": 3330.0
+        }
+      }
+    },
+    {
+      "raw": "T/DUFFER",
+      "filings": 2,
+      "counties": {
+        "STEPHENS": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3900.0,
+          "depth_p50_ft": 3900.0,
+          "depth_p90_ft": 3940.0
+        }
+      }
+    },
+    {
+      "raw": "BEND SERIES",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 3845.0,
+          "depth_p50_ft": 3845.0,
+          "depth_p90_ft": 3922.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO CONGL",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 2,
+          "depth_samples": 2,
+          "depth_p10_ft": 4650.0,
+          "depth_p50_ft": 4650.0,
+          "depth_p90_ft": 4754.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO LIMESTONE",
+      "filings": 2,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4410.0,
+          "depth_p50_ft": 4410.0,
+          "depth_p90_ft": 4410.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3892.0,
+          "depth_p50_ft": 3892.0,
+          "depth_p90_ft": 3892.0
+        }
+      }
+    },
+    {
+      "raw": "COAL",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 520.0,
+          "depth_p50_ft": 520.0,
+          "depth_p90_ft": 520.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 410.0,
+          "depth_p50_ft": 410.0,
+          "depth_p90_ft": 410.0
+        }
+      }
+    },
+    {
+      "raw": "DELMAR SAND",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 948.0,
+          "depth_p50_ft": 948.0,
+          "depth_p90_ft": 948.0
+        },
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1514.0,
+          "depth_p50_ft": 1514.0,
+          "depth_p90_ft": 1514.0
+        }
+      }
+    },
+    {
+      "raw": "DUFFER LIME",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4110.0,
+          "depth_p50_ft": 4110.0,
+          "depth_p90_ft": 4110.0
+        },
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3798.0,
+          "depth_p50_ft": 3798.0,
+          "depth_p90_ft": 3798.0
+        }
+      }
+    },
+    {
+      "raw": "LIMESHALE",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1350.0,
+          "depth_p50_ft": 1350.0,
+          "depth_p90_ft": 1350.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 651.0,
+          "depth_p50_ft": 651.0,
+          "depth_p90_ft": 651.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER THOMAS SAND",
+      "filings": 2,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1530.0,
+          "depth_p50_ft": 1530.0,
+          "depth_p90_ft": 1530.0
+        },
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1846.0,
+          "depth_p50_ft": 1846.0,
+          "depth_p90_ft": 1846.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN SANDS",
+      "filings": 2,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 750.0,
+          "depth_p50_ft": 750.0,
+          "depth_p90_ft": 750.0
+        },
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2766.0,
+          "depth_p50_ft": 2766.0,
+          "depth_p90_ft": 2766.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER THOMAS",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1000.0,
+          "depth_p50_ft": 1000.0,
+          "depth_p90_ft": 1000.0
+        }
+      }
+    },
+    {
+      "raw": "VILLAGE BEND SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1812.0,
+          "depth_p50_ft": 1812.0,
+          "depth_p90_ft": 1812.0
+        }
+      }
+    },
+    {
+      "raw": "VOGTSBERGER SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4670.0,
+          "depth_p50_ft": 4670.0,
+          "depth_p90_ft": 4670.0
+        }
+      }
+    },
+    {
+      "raw": "WATER SD",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 300.0,
+          "depth_p50_ft": 300.0,
+          "depth_p90_ft": 300.0
+        }
+      }
+    },
+    {
+      "raw": "WHITIS SAND",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1002.0,
+          "depth_p50_ft": 1002.0,
+          "depth_p90_ft": 1002.0
+        }
+      }
+    },
+    {
+      "raw": "WILDCAT",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "ZAPPS LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1508.0,
+          "depth_p50_ft": 1508.0,
+          "depth_p90_ft": 1508.0
+        }
+      }
+    },
+    {
+      "raw": "120",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "120' SD",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 130.0,
+          "depth_p50_ft": 130.0,
+          "depth_p90_ft": 130.0
+        }
+      }
+    },
+    {
+      "raw": "1300 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1330.0,
+          "depth_p50_ft": 1330.0,
+          "depth_p90_ft": 1330.0
+        }
+      }
+    },
+    {
+      "raw": "1350 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1357.0,
+          "depth_p50_ft": 1357.0,
+          "depth_p90_ft": 1357.0
+        }
+      }
+    },
+    {
+      "raw": "1400 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1385.0,
+          "depth_p50_ft": 1385.0,
+          "depth_p90_ft": 1385.0
+        }
+      }
+    },
+    {
+      "raw": "150",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "150' SD",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 178.0,
+          "depth_p50_ft": 178.0,
+          "depth_p90_ft": 178.0
+        }
+      }
+    },
+    {
+      "raw": "1600 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1604.0,
+          "depth_p50_ft": 1604.0,
+          "depth_p90_ft": 1604.0
+        }
+      }
+    },
+    {
+      "raw": "1700 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1710.0,
+          "depth_p50_ft": 1710.0,
+          "depth_p90_ft": 1710.0
+        }
+      }
+    },
+    {
+      "raw": "1830 LIME",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1979.0,
+          "depth_p50_ft": 1979.0,
+          "depth_p90_ft": 1979.0
+        }
+      }
+    },
+    {
+      "raw": "200",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "200' SD",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 234.0,
+          "depth_p50_ft": 234.0,
+          "depth_p90_ft": 234.0
+        }
+      }
+    },
+    {
+      "raw": "2100 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2172.0,
+          "depth_p50_ft": 2172.0,
+          "depth_p90_ft": 2172.0
+        }
+      }
+    },
+    {
+      "raw": "2100' SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2156.0,
+          "depth_p50_ft": 2156.0,
+          "depth_p90_ft": 2156.0
+        }
+      }
+    },
+    {
+      "raw": "2ND CONGL",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4128.0,
+          "depth_p50_ft": 4128.0,
+          "depth_p90_ft": 4128.0
+        }
+      }
+    },
+    {
+      "raw": "3700' SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "3800' SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3870.0,
+          "depth_p50_ft": 3870.0,
+          "depth_p90_ft": 3870.0
+        }
+      }
+    },
+    {
+      "raw": "4000' LIME",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3900.0,
+          "depth_p50_ft": 3900.0,
+          "depth_p90_ft": 3900.0
+        }
+      }
+    },
+    {
+      "raw": "4300' SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4350.0,
+          "depth_p50_ft": 4350.0,
+          "depth_p90_ft": 4350.0
+        }
+      }
+    },
+    {
+      "raw": "500' SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 572.0,
+          "depth_p50_ft": 572.0,
+          "depth_p90_ft": 572.0
+        }
+      }
+    },
+    {
+      "raw": "550' ASHTON SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 595.0,
+          "depth_p50_ft": 595.0,
+          "depth_p90_ft": 595.0
+        }
+      }
+    },
+    {
+      "raw": "600 CISCO SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 650.0,
+          "depth_p50_ft": 650.0,
+          "depth_p90_ft": 650.0
+        }
+      }
+    },
+    {
+      "raw": "ALLAR (2400')",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2418.0,
+          "depth_p50_ft": 2418.0,
+          "depth_p90_ft": 2418.0
+        }
+      }
+    },
+    {
+      "raw": "ARCHER COUNTY REGULAR",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2900.0,
+          "depth_p50_ft": 2900.0,
+          "depth_p90_ft": 2900.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA A",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5370.0,
+          "depth_p50_ft": 5370.0,
+          "depth_p90_ft": 5370.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA CONG (DAVIS SAND/PREGNANT SHALE)",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4409.0,
+          "depth_p50_ft": 4409.0,
+          "depth_p90_ft": 4409.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA CONGLAMERATE",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "ATOKA CONGLOERATE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5142.0,
+          "depth_p50_ft": 5142.0,
+          "depth_p90_ft": 5142.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKA CONGOLMERATE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5662.0,
+          "depth_p50_ft": 5662.0,
+          "depth_p90_ft": 5662.0
+        }
+      }
+    },
+    {
+      "raw": "ATOKAN",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3834.0,
+          "depth_p50_ft": 3834.0,
+          "depth_p90_ft": 3834.0
+        }
+      }
+    },
+    {
+      "raw": "B/CAPPA LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "B/COLEMAN JUNCTION",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 678.0,
+          "depth_p50_ft": 678.0,
+          "depth_p90_ft": 678.0
+        }
+      }
+    },
+    {
+      "raw": "BARMETT SJA;E",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5210.0,
+          "depth_p50_ft": 5210.0,
+          "depth_p90_ft": 5210.0
+        }
+      }
+    },
+    {
+      "raw": "BARNETT SHELL",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5035.0,
+          "depth_p50_ft": 5035.0,
+          "depth_p90_ft": 5035.0
+        }
+      }
+    },
+    {
+      "raw": "BASE OF CAPPS L.S.",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 900.0,
+          "depth_p50_ft": 900.0,
+          "depth_p90_ft": 900.0
+        }
+      }
+    },
+    {
+      "raw": "BASE PREGNANT SHALE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5021.0,
+          "depth_p50_ft": 5021.0,
+          "depth_p90_ft": 5021.0
+        }
+      }
+    },
+    {
+      "raw": "BASE STRAWN",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3251.0,
+          "depth_p50_ft": 3251.0,
+          "depth_p90_ft": 3251.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONG",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3950.0,
+          "depth_p50_ft": 3950.0,
+          "depth_p90_ft": 3950.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONG 1",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3800.0,
+          "depth_p50_ft": 3800.0,
+          "depth_p90_ft": 3800.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONG1",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3800.0,
+          "depth_p50_ft": 3800.0,
+          "depth_p90_ft": 3800.0
+        }
+      }
+    },
+    {
+      "raw": "BEND CONGLO",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4635.0,
+          "depth_p50_ft": 4635.0,
+          "depth_p90_ft": 4635.0
+        }
+      }
+    },
+    {
+      "raw": "BERGEN (MARBLE FALLS)",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "BERGEN (MISS)",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4862.0,
+          "depth_p50_ft": 4862.0,
+          "depth_p90_ft": 4862.0
+        }
+      }
+    },
+    {
+      "raw": "BICKLEY SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1958.0,
+          "depth_p50_ft": 1958.0,
+          "depth_p90_ft": 1958.0
+        }
+      }
+    },
+    {
+      "raw": "BLACK SANDY SHALE",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 653.0,
+          "depth_p50_ft": 653.0,
+          "depth_p90_ft": 653.0
+        }
+      }
+    },
+    {
+      "raw": "BOREN LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3082.0,
+          "depth_p50_ft": 3082.0,
+          "depth_p90_ft": 3082.0
+        }
+      }
+    },
+    {
+      "raw": "BOREN SAND",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3030.0,
+          "depth_p50_ft": 3030.0,
+          "depth_p90_ft": 3030.0
+        }
+      }
+    },
+    {
+      "raw": "BRANNON BRIDGE SS",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2395.0,
+          "depth_p50_ft": 2395.0,
+          "depth_p90_ft": 2395.0
+        }
+      }
+    },
+    {
+      "raw": "BREACKENRIDGE LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 175.0,
+          "depth_p50_ft": 175.0,
+          "depth_p90_ft": 175.0
+        }
+      }
+    },
+    {
+      "raw": "BRECKENRIDGE SAND STRAWN",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2250.0,
+          "depth_p50_ft": 2250.0,
+          "depth_p90_ft": 2250.0
+        }
+      }
+    },
+    {
+      "raw": "BROKEN LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 828.0,
+          "depth_p50_ft": 828.0,
+          "depth_p90_ft": 828.0
+        }
+      }
+    },
+    {
+      "raw": "BRYSON  SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "BRYSON LINE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "BRYSON LM",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2220.0,
+          "depth_p50_ft": 2220.0,
+          "depth_p90_ft": 2220.0
+        }
+      }
+    },
+    {
+      "raw": "BRYSON SS",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2305.0,
+          "depth_p50_ft": 2305.0,
+          "depth_p90_ft": 2305.0
+        }
+      }
+    },
+    {
+      "raw": "BS LIME 3",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2998.0,
+          "depth_p50_ft": 2998.0,
+          "depth_p90_ft": 2998.0
+        }
+      }
+    },
+    {
+      "raw": "BUCKNER",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1875.0,
+          "depth_p50_ft": 1875.0,
+          "depth_p90_ft": 1875.0
+        }
+      }
+    },
+    {
+      "raw": "BUNGER",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2534.0,
+          "depth_p50_ft": 2534.0,
+          "depth_p90_ft": 2534.0
+        }
+      }
+    },
+    {
+      "raw": "BURNS JONES",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2931.0,
+          "depth_p50_ft": 2931.0,
+          "depth_p90_ft": 2931.0
+        }
+      }
+    },
+    {
+      "raw": "C5",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 639.0,
+          "depth_p50_ft": 639.0,
+          "depth_p90_ft": 639.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO 5100",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5085.0,
+          "depth_p50_ft": 5085.0,
+          "depth_p90_ft": 5085.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO C",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3230.0,
+          "depth_p50_ft": 3230.0,
+          "depth_p90_ft": 3230.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO LINE",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3244.0,
+          "depth_p50_ft": 3244.0,
+          "depth_p90_ft": 3244.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO_A",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3924.0,
+          "depth_p50_ft": 3924.0,
+          "depth_p90_ft": 3924.0
+        }
+      }
+    },
+    {
+      "raw": "CADDO_B",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4032.0,
+          "depth_p50_ft": 4032.0,
+          "depth_p90_ft": 4032.0
+        }
+      }
+    },
+    {
+      "raw": "CANYON SD.",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1000.0,
+          "depth_p50_ft": 1000.0,
+          "depth_p90_ft": 1000.0
+        }
+      }
+    },
+    {
+      "raw": "CAPPS LM.",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1928.0,
+          "depth_p50_ft": 1928.0,
+          "depth_p90_ft": 1928.0
+        }
+      }
+    },
+    {
+      "raw": "CAPS LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1920.0,
+          "depth_p50_ft": 1920.0,
+          "depth_p90_ft": 1920.0
+        }
+      }
+    },
+    {
+      "raw": "CAPS LM",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1664.0,
+          "depth_p50_ft": 1664.0,
+          "depth_p90_ft": 1664.0
+        }
+      }
+    },
+    {
+      "raw": "CAPS LM.",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1721.0,
+          "depth_p50_ft": 1721.0,
+          "depth_p90_ft": 1721.0
+        }
+      }
+    },
+    {
+      "raw": "CASTLEBURY SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2112.0,
+          "depth_p50_ft": 2112.0,
+          "depth_p90_ft": 2112.0
+        }
+      }
+    },
+    {
+      "raw": "CHALKY LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3923.0,
+          "depth_p50_ft": 3923.0,
+          "depth_p90_ft": 3923.0
+        }
+      }
+    },
+    {
+      "raw": "CI",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1008.0,
+          "depth_p50_ft": 1008.0,
+          "depth_p90_ft": 1008.0
+        }
+      }
+    },
+    {
+      "raw": "CICSO SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 670.0,
+          "depth_p50_ft": 670.0,
+          "depth_p90_ft": 670.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO (700' SAND)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 720.0,
+          "depth_p50_ft": 720.0,
+          "depth_p90_ft": 720.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SAND 2",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1397.0,
+          "depth_p50_ft": 1397.0,
+          "depth_p90_ft": 1397.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SANDS",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 604.0,
+          "depth_p50_ft": 604.0,
+          "depth_p90_ft": 604.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SERIES",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 700.0,
+          "depth_p50_ft": 700.0,
+          "depth_p90_ft": 700.0
+        }
+      }
+    },
+    {
+      "raw": "CISCO SERIES OIL SD.",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 828.0,
+          "depth_p50_ft": 828.0,
+          "depth_p90_ft": 828.0
+        }
+      }
+    },
+    {
+      "raw": "COLEMAN",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 600.0,
+          "depth_p50_ft": 600.0,
+          "depth_p90_ft": 600.0
+        }
+      }
+    },
+    {
+      "raw": "COMYN LIME",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5312.0,
+          "depth_p50_ft": 5312.0,
+          "depth_p90_ft": 5312.0
+        }
+      }
+    },
+    {
+      "raw": "CONGLAMERATE",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "CRETACEOUS",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 250.0,
+          "depth_p50_ft": 250.0,
+          "depth_p90_ft": 250.0
+        }
+      }
+    },
+    {
+      "raw": "CUDDO CONGLOMERATE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5018.0,
+          "depth_p50_ft": 5018.0,
+          "depth_p90_ft": 5018.0
+        }
+      }
+    },
+    {
+      "raw": "CUDDO LIME",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4976.0,
+          "depth_p50_ft": 4976.0,
+          "depth_p90_ft": 4976.0
+        }
+      }
+    },
+    {
+      "raw": "DAVES CONGLOMERATE",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5292.0,
+          "depth_p50_ft": 5292.0,
+          "depth_p90_ft": 5292.0
+        }
+      }
+    },
+    {
+      "raw": "DEMMOSS SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3600.0,
+          "depth_p50_ft": 3600.0,
+          "depth_p90_ft": 3600.0
+        }
+      }
+    },
+    {
+      "raw": "DEMOSS",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3873.0,
+          "depth_p50_ft": 3873.0,
+          "depth_p90_ft": 3873.0
+        }
+      }
+    },
+    {
+      "raw": "DEMOSS SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3600.0,
+          "depth_p50_ft": 3600.0,
+          "depth_p90_ft": 3600.0
+        }
+      }
+    },
+    {
+      "raw": "DOBBS VALLEY",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1270.0,
+          "depth_p50_ft": 1270.0,
+          "depth_p90_ft": 1270.0
+        }
+      }
+    },
+    {
+      "raw": "DOG BEND LIMESTONE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1820.0,
+          "depth_p50_ft": 1820.0,
+          "depth_p90_ft": 1820.0
+        }
+      }
+    },
+    {
+      "raw": "DOGBEND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3330.0,
+          "depth_p50_ft": 3330.0,
+          "depth_p90_ft": 3330.0
+        }
+      }
+    },
+    {
+      "raw": "ELBG",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 6640.0,
+          "depth_p50_ft": 6640.0,
+          "depth_p90_ft": 6640.0
+        }
+      }
+    },
+    {
+      "raw": "ELLENBERGER LIME",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5220.0,
+          "depth_p50_ft": 5220.0,
+          "depth_p90_ft": 5220.0
+        }
+      }
+    },
+    {
+      "raw": "FORESTBURG",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5658.0,
+          "depth_p50_ft": 5658.0,
+          "depth_p90_ft": 5658.0
+        }
+      }
+    },
+    {
+      "raw": "FORMATION-SAND-OIL SHOW",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 694.0,
+          "depth_p50_ft": 694.0,
+          "depth_p90_ft": 694.0
+        }
+      }
+    },
+    {
+      "raw": "FORRESTBERG",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 6159.0,
+          "depth_p50_ft": 6159.0,
+          "depth_p90_ft": 6159.0
+        }
+      }
+    },
+    {
+      "raw": "GOEN LIMESTONE",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "GS LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 892.0,
+          "depth_p50_ft": 892.0,
+          "depth_p90_ft": 892.0
+        }
+      }
+    },
+    {
+      "raw": "GUN SIGHT",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1300.0,
+          "depth_p50_ft": 1300.0,
+          "depth_p90_ft": 1300.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSI",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1330.0,
+          "depth_p50_ft": 1330.0,
+          "depth_p90_ft": 1330.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGFHT LOWER",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 702.0,
+          "depth_p50_ft": 702.0,
+          "depth_p90_ft": 702.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGH LIME",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHG",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 364.0,
+          "depth_p50_ft": 364.0,
+          "depth_p90_ft": 364.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT 940",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 990.0,
+          "depth_p50_ft": 990.0,
+          "depth_p90_ft": 990.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT LIMESTONE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 366.0,
+          "depth_p50_ft": 366.0,
+          "depth_p90_ft": 366.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT LINE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 362.0,
+          "depth_p50_ft": 362.0,
+          "depth_p90_ft": 362.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSIGHT SANDSTONE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 376.0,
+          "depth_p50_ft": 376.0,
+          "depth_p90_ft": 376.0
+        }
+      }
+    },
+    {
+      "raw": "GUNSITE LM",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1168.0,
+          "depth_p50_ft": 1168.0,
+          "depth_p90_ft": 1168.0
+        }
+      }
+    },
+    {
+      "raw": "HARWELL CONGL",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4836.0,
+          "depth_p50_ft": 4836.0,
+          "depth_p90_ft": 4836.0
+        }
+      }
+    },
+    {
+      "raw": "HERRON BEND STRAWN",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2990.0,
+          "depth_p50_ft": 2990.0,
+          "depth_p90_ft": 2990.0
+        }
+      }
+    },
+    {
+      "raw": "HOME CREEK LIME",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1325.0,
+          "depth_p50_ft": 1325.0,
+          "depth_p90_ft": 1325.0
+        }
+      }
+    },
+    {
+      "raw": "HOME CREEK MARBLE FALLS",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3378.0,
+          "depth_p50_ft": 3378.0,
+          "depth_p90_ft": 3378.0
+        }
+      }
+    },
+    {
+      "raw": "HULL SILK",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4364.0,
+          "depth_p50_ft": 4364.0,
+          "depth_p90_ft": 4364.0
+        }
+      }
+    },
+    {
+      "raw": "JENNINGS MISSISSIPPIAN",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3874.0,
+          "depth_p50_ft": 3874.0,
+          "depth_p90_ft": 3874.0
+        }
+      }
+    },
+    {
+      "raw": "KMA (1300)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1297.0,
+          "depth_p50_ft": 1297.0,
+          "depth_p90_ft": 1297.0
+        }
+      }
+    },
+    {
+      "raw": "KMA (1600)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1680.0,
+          "depth_p50_ft": 1680.0,
+          "depth_p90_ft": 1680.0
+        }
+      }
+    },
+    {
+      "raw": "KMA LIME ZONE 2",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3799.0,
+          "depth_p50_ft": 3799.0,
+          "depth_p90_ft": 3799.0
+        }
+      }
+    },
+    {
+      "raw": "KMA LIME ZONE I",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3880.0,
+          "depth_p50_ft": 3880.0,
+          "depth_p90_ft": 3880.0
+        }
+      }
+    },
+    {
+      "raw": "KMA LIME ZONE II",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3963.0,
+          "depth_p50_ft": 3963.0,
+          "depth_p90_ft": 3963.0
+        }
+      }
+    },
+    {
+      "raw": "KMA ZONE III",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3877.0,
+          "depth_p50_ft": 3877.0,
+          "depth_p90_ft": 3877.0
+        }
+      }
+    },
+    {
+      "raw": "KNOX SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2888.0,
+          "depth_p50_ft": 2888.0,
+          "depth_p90_ft": 2888.0
+        }
+      }
+    },
+    {
+      "raw": "L. BARNETT",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5864.0,
+          "depth_p50_ft": 5864.0,
+          "depth_p90_ft": 5864.0
+        }
+      }
+    },
+    {
+      "raw": "LAKE",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3660.0,
+          "depth_p50_ft": 3660.0,
+          "depth_p90_ft": 3660.0
+        }
+      }
+    },
+    {
+      "raw": "LAKE SAND",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3480.0,
+          "depth_p50_ft": 3480.0,
+          "depth_p90_ft": 3480.0
+        }
+      }
+    },
+    {
+      "raw": "LAKE SD",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3180.0,
+          "depth_p50_ft": 3180.0,
+          "depth_p90_ft": 3180.0
+        }
+      }
+    },
+    {
+      "raw": "LARIMORE SAND",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 708.0,
+          "depth_p50_ft": 708.0,
+          "depth_p90_ft": 708.0
+        }
+      }
+    },
+    {
+      "raw": "LIMEY SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1594.0,
+          "depth_p50_ft": 1594.0,
+          "depth_p90_ft": 1594.0
+        }
+      }
+    },
+    {
+      "raw": "LM",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 480.0,
+          "depth_p50_ft": 480.0,
+          "depth_p90_ft": 480.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER BASAL CONG",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3420.0,
+          "depth_p50_ft": 3420.0,
+          "depth_p90_ft": 3420.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER CANYON SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1910.0,
+          "depth_p50_ft": 1910.0,
+          "depth_p90_ft": 1910.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER CISCO SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1088.0,
+          "depth_p50_ft": 1088.0,
+          "depth_p90_ft": 1088.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER GUNSITE SAND",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1182.0,
+          "depth_p50_ft": 1182.0,
+          "depth_p90_ft": 1182.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER RANGER",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3782.0,
+          "depth_p50_ft": 3782.0,
+          "depth_p90_ft": 3782.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 610.0,
+          "depth_p50_ft": 610.0,
+          "depth_p90_ft": 610.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER SMITHWICK",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3856.0,
+          "depth_p50_ft": 3856.0,
+          "depth_p90_ft": 3856.0
+        }
+      }
+    },
+    {
+      "raw": "LOWER STRAWN SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3482.0,
+          "depth_p50_ft": 3482.0,
+          "depth_p90_ft": 3482.0
+        }
+      }
+    },
+    {
+      "raw": "MAGARGEL LIME",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1538.0,
+          "depth_p50_ft": 1538.0,
+          "depth_p90_ft": 1538.0
+        }
+      }
+    },
+    {
+      "raw": "MAIN SHALE BREAK",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3998.0,
+          "depth_p50_ft": 3998.0,
+          "depth_p90_ft": 3998.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALL LIMESTONE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5220.0,
+          "depth_p50_ft": 5220.0,
+          "depth_p90_ft": 5220.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS CONGL",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3906.0,
+          "depth_p50_ft": 3906.0,
+          "depth_p90_ft": 3906.0
+        }
+      }
+    },
+    {
+      "raw": "MARBLE FALLS/CONGLOMERATE",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4910.0,
+          "depth_p50_ft": 4910.0,
+          "depth_p90_ft": 4910.0
+        }
+      }
+    },
+    {
+      "raw": "MCCLESTER",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3800.0,
+          "depth_p50_ft": 3800.0,
+          "depth_p90_ft": 3800.0
+        }
+      }
+    },
+    {
+      "raw": "MEQAREL",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1404.0,
+          "depth_p50_ft": 1404.0,
+          "depth_p90_ft": 1404.0
+        }
+      }
+    },
+    {
+      "raw": "MIDDLE THOMAS SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1800.0,
+          "depth_p50_ft": 1800.0,
+          "depth_p90_ft": 1800.0
+        }
+      }
+    },
+    {
+      "raw": "MISS",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4280.0,
+          "depth_p50_ft": 4280.0,
+          "depth_p90_ft": 4280.0
+        }
+      }
+    },
+    {
+      "raw": "MISS LIME",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4410.0,
+          "depth_p50_ft": 4410.0,
+          "depth_p90_ft": 4410.0
+        }
+      }
+    },
+    {
+      "raw": "MISS.",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4545.0,
+          "depth_p50_ft": 4545.0,
+          "depth_p90_ft": 4545.0
+        }
+      }
+    },
+    {
+      "raw": "MISS. LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4000.0,
+          "depth_p50_ft": 4000.0,
+          "depth_p90_ft": 4000.0
+        }
+      }
+    },
+    {
+      "raw": "MISSIPPIAN",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4426.0,
+          "depth_p50_ft": 4426.0,
+          "depth_p90_ft": 4426.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPI REEF",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4878.0,
+          "depth_p50_ft": 4878.0,
+          "depth_p90_ft": 4878.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPIAN (UPPER)",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4700.0,
+          "depth_p50_ft": 4700.0,
+          "depth_p90_ft": 4700.0
+        }
+      }
+    },
+    {
+      "raw": "MISSISSIPPIAN- POSSIBLE H2S",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "MORRIS SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3585.0,
+          "depth_p50_ft": 3585.0,
+          "depth_p90_ft": 3585.0
+        }
+      }
+    },
+    {
+      "raw": "NEEDLEHOOD",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3950.0,
+          "depth_p50_ft": 3950.0,
+          "depth_p90_ft": 3950.0
+        }
+      }
+    },
+    {
+      "raw": "NEWARK, EAST (BARNETT SHALE)",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4278.0,
+          "depth_p50_ft": 4278.0,
+          "depth_p90_ft": 4278.0
+        }
+      }
+    },
+    {
+      "raw": "NOBLE LIMESTONE",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2010.0,
+          "depth_p50_ft": 2010.0,
+          "depth_p90_ft": 2010.0
+        }
+      }
+    },
+    {
+      "raw": "OIL SD",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 506.0,
+          "depth_p50_ft": 506.0,
+          "depth_p90_ft": 506.0
+        }
+      }
+    },
+    {
+      "raw": "OILSAND",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 915.0,
+          "depth_p50_ft": 915.0,
+          "depth_p90_ft": 915.0
+        }
+      }
+    },
+    {
+      "raw": "OL SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1050.0,
+          "depth_p50_ft": 1050.0,
+          "depth_p90_ft": 1050.0
+        }
+      }
+    },
+    {
+      "raw": "OS",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 510.0,
+          "depth_p50_ft": 510.0,
+          "depth_p90_ft": 510.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINT",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 809.0,
+          "depth_p50_ft": 809.0,
+          "depth_p90_ft": 809.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO IM",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 588.0,
+          "depth_p50_ft": 588.0,
+          "depth_p90_ft": 588.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO LIMESTONE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 935.0,
+          "depth_p50_ft": 935.0,
+          "depth_p90_ft": 935.0
+        }
+      }
+    },
+    {
+      "raw": "PALO PINTO LM.",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1522.0,
+          "depth_p50_ft": 1522.0,
+          "depth_p90_ft": 1522.0
+        }
+      }
+    },
+    {
+      "raw": "PENN SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 585.0,
+          "depth_p50_ft": 585.0,
+          "depth_p90_ft": 585.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN (750)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 550.0,
+          "depth_p50_ft": 550.0,
+          "depth_p90_ft": 550.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN 800 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 780.0,
+          "depth_p50_ft": 780.0,
+          "depth_p90_ft": 780.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN 850 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 830.0,
+          "depth_p50_ft": 830.0,
+          "depth_p90_ft": 830.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN AND CISCO",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2000.0,
+          "depth_p50_ft": 2000.0,
+          "depth_p90_ft": 2000.0
+        }
+      }
+    },
+    {
+      "raw": "PERMIAN SANDS",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1402.0,
+          "depth_p50_ft": 1402.0,
+          "depth_p90_ft": 1402.0
+        }
+      }
+    },
+    {
+      "raw": "PREG SHALE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5412.0,
+          "depth_p50_ft": 5412.0,
+          "depth_p90_ft": 5412.0
+        }
+      }
+    },
+    {
+      "raw": "PREGNANT SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4370.0,
+          "depth_p50_ft": 4370.0,
+          "depth_p90_ft": 4370.0
+        }
+      }
+    },
+    {
+      "raw": "RAMEY LIME",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3938.0,
+          "depth_p50_ft": 3938.0,
+          "depth_p90_ft": 3938.0
+        }
+      }
+    },
+    {
+      "raw": "RANGER LIME",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1152.0,
+          "depth_p50_ft": 1152.0,
+          "depth_p90_ft": 1152.0
+        }
+      }
+    },
+    {
+      "raw": "SALTWATER SD",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 202.0,
+          "depth_p50_ft": 202.0,
+          "depth_p90_ft": 202.0
+        }
+      }
+    },
+    {
+      "raw": "SAND SHALE",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "SANDSTONE",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 732.0,
+          "depth_p50_ft": 732.0,
+          "depth_p90_ft": 732.0
+        }
+      }
+    },
+    {
+      "raw": "SH. W/SD STRKS.",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 490.0,
+          "depth_p50_ft": 490.0,
+          "depth_p90_ft": 490.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE AND SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 994.0,
+          "depth_p50_ft": 994.0,
+          "depth_p90_ft": 994.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE OIL",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1338.0,
+          "depth_p50_ft": 1338.0,
+          "depth_p90_ft": 1338.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 119.0,
+          "depth_p50_ft": 119.0,
+          "depth_p90_ft": 119.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE W/LIMY SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1190.0,
+          "depth_p50_ft": 1190.0,
+          "depth_p90_ft": 1190.0
+        }
+      }
+    },
+    {
+      "raw": "SHALE W/SAND AND LIME STKS",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1480.0,
+          "depth_p50_ft": 1480.0,
+          "depth_p90_ft": 1480.0
+        }
+      }
+    },
+    {
+      "raw": "SHALY SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1513.0,
+          "depth_p50_ft": 1513.0,
+          "depth_p90_ft": 1513.0
+        }
+      }
+    },
+    {
+      "raw": "SHELL & SANDS",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1397.0,
+          "depth_p50_ft": 1397.0,
+          "depth_p90_ft": 1397.0
+        }
+      }
+    },
+    {
+      "raw": "SHY. LIME",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1605.0,
+          "depth_p50_ft": 1605.0,
+          "depth_p90_ft": 1605.0
+        }
+      }
+    },
+    {
+      "raw": "SMITH WICK SHALE",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3760.0,
+          "depth_p50_ft": 3760.0,
+          "depth_p90_ft": 3760.0
+        }
+      }
+    },
+    {
+      "raw": "ST",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2675.0,
+          "depth_p50_ft": 2675.0,
+          "depth_p90_ft": 2675.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN (KMA)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3720.0,
+          "depth_p50_ft": 3720.0,
+          "depth_p90_ft": 3720.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN CAPPS",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2310.0,
+          "depth_p50_ft": 2310.0,
+          "depth_p90_ft": 2310.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN MIDDLE",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2270.0,
+          "depth_p50_ft": 2270.0,
+          "depth_p90_ft": 2270.0
+        }
+      }
+    },
+    {
+      "raw": "STRAWN SAD",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2770.0,
+          "depth_p50_ft": 2770.0,
+          "depth_p90_ft": 2770.0
+        }
+      }
+    },
+    {
+      "raw": "STRWAN",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2690.0,
+          "depth_p50_ft": 2690.0,
+          "depth_p90_ft": 2690.0
+        }
+      }
+    },
+    {
+      "raw": "SWASTIKA CADDO",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 2975.0,
+          "depth_p50_ft": 2975.0,
+          "depth_p90_ft": 2975.0
+        }
+      }
+    },
+    {
+      "raw": "T/ LAKE SD",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3700.0,
+          "depth_p50_ft": 3700.0,
+          "depth_p90_ft": 3700.0
+        }
+      }
+    },
+    {
+      "raw": "T/BRYSON LIME",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3477.0,
+          "depth_p50_ft": 3477.0,
+          "depth_p90_ft": 3477.0
+        }
+      }
+    },
+    {
+      "raw": "T/CONGL",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3756.0,
+          "depth_p50_ft": 3756.0,
+          "depth_p90_ft": 3756.0
+        }
+      }
+    },
+    {
+      "raw": "T/MISS",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4140.0,
+          "depth_p50_ft": 4140.0,
+          "depth_p90_ft": 4140.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS (LOWER)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1462.0,
+          "depth_p50_ft": 1462.0,
+          "depth_p90_ft": 1462.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS (UPPER)",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1382.0,
+          "depth_p50_ft": 1382.0,
+          "depth_p90_ft": 1382.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS 1600' SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1635.0,
+          "depth_p50_ft": 1635.0,
+          "depth_p90_ft": 1635.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS 1800' SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1816.0,
+          "depth_p50_ft": 1816.0,
+          "depth_p90_ft": 1816.0
+        }
+      }
+    },
+    {
+      "raw": "THOMAS 950' SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 946.0,
+          "depth_p50_ft": 946.0,
+          "depth_p90_ft": 946.0
+        }
+      }
+    },
+    {
+      "raw": "TOP BIG SALINE",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3552.0,
+          "depth_p50_ft": 3552.0,
+          "depth_p90_ft": 3552.0
+        }
+      }
+    },
+    {
+      "raw": "TOP CONGL",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5017.0,
+          "depth_p50_ft": 5017.0,
+          "depth_p90_ft": 5017.0
+        }
+      }
+    },
+    {
+      "raw": "TOP GUNSIGHT SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1670.0,
+          "depth_p50_ft": 1670.0,
+          "depth_p90_ft": 1670.0
+        }
+      }
+    },
+    {
+      "raw": "TOP KMA",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3640.0,
+          "depth_p50_ft": 3640.0,
+          "depth_p90_ft": 3640.0
+        }
+      }
+    },
+    {
+      "raw": "TOP KMA LIME",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3667.0,
+          "depth_p50_ft": 3667.0,
+          "depth_p90_ft": 3667.0
+        }
+      }
+    },
+    {
+      "raw": "TOP MARBLE FALLS",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4050.0,
+          "depth_p50_ft": 4050.0,
+          "depth_p90_ft": 4050.0
+        }
+      }
+    },
+    {
+      "raw": "TOP MARBLE FALLS LIME",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4060.0,
+          "depth_p50_ft": 4060.0,
+          "depth_p90_ft": 4060.0
+        }
+      }
+    },
+    {
+      "raw": "TOP MEGARGEL LIME",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1538.0,
+          "depth_p50_ft": 1538.0,
+          "depth_p90_ft": 1538.0
+        }
+      }
+    },
+    {
+      "raw": "TOP MF",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "TOP MISSISSIPPIAN",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1900.0,
+          "depth_p50_ft": 1900.0,
+          "depth_p90_ft": 1900.0
+        }
+      }
+    },
+    {
+      "raw": "TOP OF BEND SERIES",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3933.0,
+          "depth_p50_ft": 3933.0,
+          "depth_p90_ft": 3933.0
+        }
+      }
+    },
+    {
+      "raw": "TOP OF BLACK SHALE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4514.0,
+          "depth_p50_ft": 4514.0,
+          "depth_p90_ft": 4514.0
+        }
+      }
+    },
+    {
+      "raw": "TOP OF BRYSON SAND MRKR",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1748.0,
+          "depth_p50_ft": 1748.0,
+          "depth_p90_ft": 1748.0
+        }
+      }
+    },
+    {
+      "raw": "TOP OF MARBLE FALLS LIME",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 4310.0,
+          "depth_p50_ft": 4310.0,
+          "depth_p90_ft": 4310.0
+        }
+      }
+    },
+    {
+      "raw": "TOP OF PREGNANT SHALE",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3720.0,
+          "depth_p50_ft": 3720.0,
+          "depth_p90_ft": 3720.0
+        }
+      }
+    },
+    {
+      "raw": "TOP STRAWN B",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1500.0,
+          "depth_p50_ft": 1500.0,
+          "depth_p90_ft": 1500.0
+        }
+      }
+    },
+    {
+      "raw": "TOP STRAWN NW",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3770.0,
+          "depth_p50_ft": 3770.0,
+          "depth_p90_ft": 3770.0
+        }
+      }
+    },
+    {
+      "raw": "TOP THOMAS SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1453.0,
+          "depth_p50_ft": 1453.0,
+          "depth_p90_ft": 1453.0
+        }
+      }
+    },
+    {
+      "raw": "TRINITY WATER",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "TRINITY WATER SAND",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 0,
+          "depth_p10_ft": null,
+          "depth_p50_ft": null,
+          "depth_p90_ft": null
+        }
+      }
+    },
+    {
+      "raw": "TWIN LIME",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1226.0,
+          "depth_p50_ft": 1226.0,
+          "depth_p90_ft": 1226.0
+        }
+      }
+    },
+    {
+      "raw": "TWIN LIMES",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 552.0,
+          "depth_p50_ft": 552.0,
+          "depth_p90_ft": 552.0
+        }
+      }
+    },
+    {
+      "raw": "U.THOMAS",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1262.0,
+          "depth_p50_ft": 1262.0,
+          "depth_p90_ft": 1262.0
+        }
+      }
+    },
+    {
+      "raw": "U1700 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1662.0,
+          "depth_p50_ft": 1662.0,
+          "depth_p90_ft": 1662.0
+        }
+      }
+    },
+    {
+      "raw": "UNIDENTIFIED COUNTY REGULAR DUFFER",
+      "filings": 1,
+      "counties": {
+        "STEPHENS": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3728.0,
+          "depth_p50_ft": 3728.0,
+          "depth_p90_ft": 3728.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER 1400 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1384.0,
+          "depth_p50_ft": 1384.0,
+          "depth_p90_ft": 1384.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER 1500 SAND",
+      "filings": 1,
+      "counties": {
+        "WICHITA": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 1474.0,
+          "depth_p50_ft": 1474.0,
+          "depth_p90_ft": 1474.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER BARNETT SHALE",
+      "filings": 1,
+      "counties": {
+        "JACK": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 5591.0,
+          "depth_p50_ft": 5591.0,
+          "depth_p90_ft": 5591.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER CISCO SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 644.0,
+          "depth_p50_ft": 644.0,
+          "depth_p90_ft": 644.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER CONGL",
+      "filings": 1,
+      "counties": {
+        "PALO PINTO": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3805.0,
+          "depth_p50_ft": 3805.0,
+          "depth_p90_ft": 3805.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER SAND",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 680.0,
+          "depth_p50_ft": 680.0,
+          "depth_p90_ft": 680.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER SMITHWICK",
+      "filings": 1,
+      "counties": {
+        "YOUNG": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3752.0,
+          "depth_p50_ft": 3752.0,
+          "depth_p90_ft": 3752.0
+        }
+      }
+    },
+    {
+      "raw": "UPPER STARWN",
+      "filings": 1,
+      "counties": {
+        "ARCHER": {
+          "filings": 1,
+          "depth_samples": 1,
+          "depth_p10_ft": 3814.0,
+          "depth_p50_ft": 3814.0,
+          "depth_p90_ft": 3814.0
+        }
+      }
+    }
+  ]
+}

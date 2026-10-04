@@ -1,0 +1,32 @@
+# onepetro-deliverability-testing-gas-wells-print
+
+**Covers:** A petroleum-engineering reference article on gas-well deliverability testing: test types (flow-after-flow, single-point, isochronal, modified isochronal), the Rawlins-Schellhardt and Houpeurt deliverability equations, and stabilization/radius-of-investigation calculations.
+
+**Authoritative for:** definitions and field procedures for flow-after-flow, single-point, isochronal, and modified isochronal gas-well tests, absolute open flow (AOF) potential and its use in deliverability forecasting, the empirical Rawlins-Schellhardt (C and n) and theoretical Houpeurt (a and b coefficients) deliverability equations, including transient vs pseudosteady-state forms, when pseudopressure, pressure-squared, or pressure formulations are appropriate, field-unit conventions for deliverability coefficients (e.g. q in MMscf/D), stabilization time and radius-of-investigation equations, and the effect of permeability and drainage area on required test duration
+
+**Not good for:** oil-well or multiphase (gas-condensate, high liquid loading) inflow performance, pressure-transient interpretation for reservoir characterization beyond deliverability (buildup analysis, boundary identification, well-test derivative methods), unconventional/tight-gas or hydraulically fractured well deliverability where pseudoradial flow may never be reached, wellbore hydraulics, tubing/nodal analysis, or surface-facility deliverability, gas properties correlations, PVT, or field-specific reservoir data, stratigraphy, basin geology, or any regional geological interpretation
+
+**Scope:** Classical single-phase, dry-gas, vertical-well analytical well-testing theory in oilfield units; assumes radial flow toward a well in a bounded (typically circular) drainage area with pseudosteady-state attainable. Encyclopedia/handbook-style summary rather than primary research or a case study o should are generic and require local reservoir and fluid data to apply.
+
+_4 segments._
+
+---
+
+### Deliverability testing of gas wells — article header and abstract  `09-gas-deliverability/onepetro-deliverability-testing-gas-wells-print#0` (chars 0-874)
+Answers: What is deliverability testing of gas wells? · What types of gas-well deliverability tests are there? · What is a flow-after-flow, isochronal, or modified isochronal test? · What gas flow equations are used to analyze deliverability tests in terms of pseudopressure?
+Entities: flow-after-flow, single-point, isochronal, modified isochronal, PetroWiki, Society of Petroleum Engineers (SPE), OnePetro
+
+### Types and purposes of gas-well deliverability tests; theoretical basis  `09-gas-deliverability/onepetro-deliverability-testing-gas-wells-print#1` (chars 874-4323)
+Answers: what is absolute open flow (AOF) potential and how is it used? · what is the difference between flow-after-flow, single-point, isochronal, and modified isochronal tests? · how is an isochronal test run on a gas well? · why use a modified isochronal test instead of a flow-after-flow test? · what is a gas backpressure curve or IPR and what can I use it for? · what assumptions underlie deliverability test analysis equations? · can I use standard deliverability equations on hydraulically fractured or layered wells?
+Entities: absolute open flow (AOF), IPR, BHFP, Houpeurt, Rawlins and Schellhardt, flow-after-flow tests, single-point test, isochronal test, modified isochronal test
+Equations: Houpeurt equations (radial-flow diffusivity solutions), Rawlins and Schellhardt empirical equation
+
+### Theoretical (Houpeurt) and empirical (Rawlins-Schellhardt) gas deliverability equations  `09-gas-deliverability/onepetro-deliverability-testing-gas-wells-print#2` (chars 4323-11033)
+Answers: What is the equation for gas well deliverability under transient vs pseudosteady-state flow? · When should I use pressure-squared instead of pseudopressure in gas deliverability analysis? · What do the a and b coefficients in the Houpeurt deliverability equation represent? · What are the units of the deliverability flow coefficients when q is in MMscf/D? · What does the exponent n mean in the Rawlins and Schellhardt equation and what range can it take? · What is the stabilized performance coefficient C? · Why can't gas wells reach true pseudosteady state? · Do the pseudopressure flow coefficients change as average reservoir pressure declines? · How do I get AOF from a deliverability test equation? · What is p_s in the deliverability equation and how does it relate to initial reservoir pressure?
+Entities: Houpeurt, Rawlins and Schellhardt, Rawlins and Shellhardt, Darcy's law, BHP, BHFP, AOF, MMscf/D, psia, $p_p$
+Equations: Houpeurt transient pseudopressure deliverability equation (Δp_p = a_t q + b q^2), Houpeurt pseudosteady-state equation (Δp_p = a q + b q^2), pressure-squared Houpeurt forms, Rawlins and Schellhardt empirical equation q = C(p̄²-p_wf²)^n, Rawlins-Schellhardt pseudopressure form q = C[p_p(p̄)-p_p(p_wf)]^n, transient diffusivity solution for gas in pseudopressure
+
+### Stabilization time and pseudoradial flow time for gas well deliverability tests  `09-gas-deliverability/onepetro-deliverability-testing-gas-wells-print#3` (chars 11033-20657)
+Answers: How long does a gas well take to reach stabilized flow before a deliverability test? · How do I calculate radius of investigation for a gas well? · What equation gives stabilization time for a well centered in a circular drainage area? · How does permeability and drainage area affect stabilization time? · When can Rawlins-Schellhardt or Houpeurt analysis be used on a hydraulically fractured well? · How do I estimate the time to reach pseudoradial flow for a fractured well? · What is tDA and how is it used to compute stabilization time? · What do the symbols in the gas deliverability equations mean?
+Entities: Rawlins-Schellhardt, Houpeurt, Lee, W.J., Earlougher, R.C. Jr., Al-Hussainy, R., Crawford, P.B., Schellhardt, M.A., Rawlins, E.L., USBM, SPE, t_{prf}, t_{s}, t_{DA}, L_f, C_A, TABLE 8.11, TABLE 8.12
+Equations: radius of investigation r_i = sqrt(k_g t / 948 φ μ_g c_t) (Eq. 15), stabilization time t_s = 948 φ μ_g c_t r_e^2 / k_g (Eq. 16), general stabilization time t_s = φ μ_g c_t A t_DA / 0.0002637 k_g (Eq. 17), pseudoradial flow time t_prf = 11,400 φ μ_g c_t L_f^2 / k_g (Eq. 18), stabilized deliverability coefficient a, transient deliverability coefficient a_t, depth of investigation b_f = 0.02878 (kt/φμc_t)^1/2
